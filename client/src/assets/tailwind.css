@@ -1,0 +1,76 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+  }
+  
+  nav {
+    padding: 30px;
+  }
+  
+  nav a {
+    font-weight: bold;
+    color: #2c3e50;
+  }
+  
+  nav a.router-link-exact-active {
+    color: #42b983;
+  }
+
+
+  @layer components {
+    #app {
+      @apply h-screen bg-gray-900;
+    }
+    html {
+      @apply h-full bg-gray-900;
+    }
+    body {
+      @apply h-full bg-gray-900;
+    }
+    .nav-bar {
+      @apply border border-hidden rounded-md mt-2 flex items-center px-2 py-2 text-base font-medium  hover:border-hacker;
+    }
+    .table{
+      @apply hidden px-3 py-3.5 text-sm text-hacker lg:table-cell text-left;
+    }
+
+    .route-leave-to {
+      @apply opacity-0 translate-x-1/2 bg-gray-900;
+    }
+    .route-leave-active {
+      @apply transition-all duration-300 ease-in bg-gray-900;
+    }
+    .route-enter-active {
+      @apply transition-all duration-300 ease-out bg-gray-900;
+    }
+    .route-enter-from {
+      @apply opacity-0 translate-x-1/2 bg-gray-900;
+    }
+    button {
+      @apply transition duration-300;
+    }
+    /* h1, h2, h3{
+      @apply font-poppins;
+    }
+    body{
+      @apply bg-white;
+    }
+    .logo-section img {
+      @apply transition duration-500 hover:scale-110 cursor-pointer;
+    } */
+  }
+
+  /* @font-face {
+    font-family: "Poppins";
+    src: url(./assets/fonts/Poppins-Medium.ttf) format('truetype');
+    font-weight: normal;
+  } */

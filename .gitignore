@@ -1,0 +1,67 @@
+# Fichiers objets et fichiers exécutables générés
+*.o
+*.obj
+*.exe
+
+# Fichiers spécifiques à Visual Studio
+*.pdb
+*.pch
+*.ilk
+*.aps
+*.exp
+*.lib
+*.dll
+*.idb
+*.manifest
+*.sdf
+*.suo
+*.opensdf
+
+# Fichiers de configuration
+*.user
+*.aps
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Dossiers générés
+ipch/
+Debug/
+Release/
+.vs/
+*.VC/
+*.VC.opendb/
+
+# Fichiers de sauvegarde
+*~
+*.swp
+*.bak
+*.tmp
+
+# Fichiers spécifiques à C++
+*.sln
+*.vcxproj
+*.vcproj
+*.vcxproj.filters
+*.vcproj.filters
+
+# Fichiers de dépendances
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+*.aps
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.manifest

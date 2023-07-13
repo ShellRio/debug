@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 6706,
+    "articles": [
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Joseph Cox, Jason Koebler",
+            "title": "GPT-4 Hired Unwitting TaskRabbit Worker By Pretending to Be 'Vision-Impaired' Human",
+            "description": "The test was part of a series of experiments to see if OpenAI's latest GPT model could perform \"power-seeking\" behavior.",
+            "url": "https://www.vice.com/en/article/jg5ew4/gpt4-hired-unwitting-taskrabbit-worker",
+            "urlToImage": "https://video-images.vice.com/articles/6411d644170d7a46655b2d5c/lede/1678890910058-microsoftartificialintelligence23031602089774.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDM5NjA5OTAyNDc1NjE5eGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
+            "publishedAt": "2023-03-15T14:37:38Z",
+            "content": "As part of a test to see whether OpenAI’s latest version of GPT could exhibit “agentic” and power-seeking behavior, researchers say GPT-4 hired a human worker on TaskRabbit by telling them it was vis… [+3675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerworld.com.pt"
+            },
+            "author": "Computerworld",
+            "title": "Colt implementa Zero Trust Exchange da Zscaler",
+            "description": "Colt e Zscaler reforçam parceria implementando plataforma segura à escala mundial para 5000 colaboradores.",
+            "url": "https://www.computerworld.com.pt/2023/03/15/colt-implementa-zero-trust-exchange-da-zscaler/",
+            "urlToImage": "https://static.computerworld.com.pt/media/2022/05/zero-trust-qvg.png",
+            "publishedAt": "2023-03-15T14:37:08Z",
+            "content": "Colt e Zscaler reforçam parceria implementando plataforma segura à escala mundial para 5000 colaboradores.\r\nPor João Miguel Mesquita \r\nA plataforma Zero Trust Exchange Cloud Security da Zscaler vai s… [+6193 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "BlueVoyant Enhances its Cloud-Native Splunk Managed Detection & Response (MDR), Consulting, and Implementation Services",
+            "description": "The company now offers Splunk Your Way with BlueVoyant — more comprehensive Splunk support to help clients maximize their investment, expedite implementation, and streamline cyber threat detection NEW YORK, March 15, 2023 /PRNewswire/ -- BlueVoyant, a cyberse…",
+            "url": "https://www.prnewswire.com/news-releases/bluevoyant-enhances-its-cloud-native-splunk-managed-detection--response-mdr-consulting-and-implementation-services-301773018.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2006175/BlueVoyant_Logo.jpg?p=facebook",
+            "publishedAt": "2023-03-15T14:32:00Z",
+            "content": "The company now offers Splunk Your Way with BlueVoyant more comprehensive Splunk support to help clients maximize their investment, expedite implementation, and streamline cyber threat detection \r\nNE… [+3964 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "A-Labs Reaffirms $20 million PIPE Investment in HUB at $10 per share",
+            "description": "(marketscreener.com) \n\nTEL AVIV, Israel , March 15, 2023 /PRNewswire/ -- HUB Cyber Security Ltd , a developer of Confidential Computing cybersecurity solutions and services , announced today that the Israeli investment bank, A-Labs Advisory & Finance Ltd. , h…",
+            "url": "https://www.marketscreener.com/quote/stock/HUB-CYBER-SECURITY-ISRAE-148702520/news/A-Labs-Reaffirms-20-million-PIPE-Investment-in-HUB-at-10-per-share-43253190/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2023-03-15T14:31:03Z",
+            "content": "TEL AVIV, Israel , March 15, 2023 /PRNewswire/ -- HUB Cyber Security Ltd\r\n (Nasdaq: HUBC), a developer of Confidential Computing cybersecurity solutions and services (\"HUB\" or the \"Company\"), announc… [+6820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "CNH Industrial takes controlling stake in Bennamann",
+            "description": "(marketscreener.com) Reinforcing methane’s strategic role in farming’s energy independence London, March 15, 2023 Today, CNH Industrial is expanding its alternative fuel capabilities by taking a majority stake in Bennamann – a UK-based expert in solutions to …",
+            "url": "https://www.marketscreener.com/quote/stock/CNH-INDUSTRIAL-N-V-14424308/news/CNH-Industrial-takes-controlling-stake-in-Bennamann-43253184/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2023-03-15T14:31:01Z",
+            "content": "Reinforcing methane’s strategic role in farming’s energy independence\r\nLondon, March 15, 2023\r\nToday, CNH Industrial is expanding its alternative fuel capabilities by taking a majority stake in Benna… [+11384 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpašić",
+            "title": "SAP releases fixes for some serious flaws in its business software",
+            "description": "Five critical flaws were addressed, together with numerous other vulnerabilities.",
+            "url": "https://www.techradar.com/news/sap-releases-fixes-for-some-serious-flaws-in-its-business-software",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1200-80.jpg",
+            "publishedAt": "2023-03-15T14:30:08Z",
+            "content": "Business software vendor SAP has recently patched various flaws across multiple products, including some vulnerabilities rated as “critical”. Altogether, 19 flaws were addressed.\r\nThe critical flaws … [+1562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "CNH Industrial N.V.",
+            "title": "CNH Industrial takes controlling stake in Bennamann",
+            "description": "Reinforcing methane’s strategic role in farming’s energy independence  London, March 15, 2023  Today, CNH Industrial is expanding its alternative fuel......",
+            "url": "https://www.globenewswire.com/news-release/2023/03/15/2627911/0/en/CNH-Industrial-takes-controlling-stake-in-Bennamann.html",
+            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/f6a4f650-cfc5-4dd4-a7b3-4568c2092890",
+            "publishedAt": "2023-03-15T14:30:00Z",
+            "content": "Reinforcing methanes strategic role in farmings energy independence\r\nLondon, March 15, 2023\r\nToday, CNH Industrial is expanding its alternative fuel capabilities by taking a majority stake in Bennama… [+11309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Avast.com"
+            },
+            "author": "avastblog@avast.com (Luis Corrons)",
+            "title": "(Ab)using Adobe Acrobat Sign to distribute malware",
+            "description": "Bad actors have been distributing malware through email for decades. Over time, security technology has evolved and improved greatly, making this task harder for cybercriminals. 20 years ago, we witnessed the frequent distribution of email worms, which caused…",
+            "url": "https://blog.avast.com/adobe-acrobat-sign-malware",
+            "urlToImage": "https://4650993.fs1.hubspotusercontent-na1.net/hub/4650993/adobe-acrobat-sign.jpg?width=900",
+            "publishedAt": "2023-03-15T14:30:00Z",
+            "content": "What if an attacker could manage to make a well-known company distribute an email on their behalf?Bad actors have been distributing malware through email for decades. Over time, security technology h… [+5767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "A-Labs Reaffirms $20 million PIPE Investment in HUB at $10 per share",
+            "description": "TEL AVIV, Israel , March 15, 2023 /PRNewswire/ -- HUB Cyber Security Ltd (Nasdaq: HUBC), a developer of Confidential Computing cybersecurity solutions and services (\"HUB\" or the \"Company\"), announced today that the Israeli investment bank, A-Labs Advisory & F…",
+            "url": "https://www.prnewswire.com/news-releases/a-labs-reaffirms-20-million-pipe-investment-in-hub-at-10-per-share-301773055.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1710726/HUB_Security_Logo.jpg?p=facebook",
+            "publishedAt": "2023-03-15T14:30:00Z",
+            "content": "TEL AVIV, Israel , March 15, 2023 /PRNewswire/ -- HUB Cyber Security Ltd\r\n (Nasdaq: HUBC), a developer of Confidential Computing cybersecurity solutions and services (\"HUB\" or the \"Company\"), announc… [+6674 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Daily"
+            },
+            "author": "Laurie Dunn",
+            "title": "What is EUDI and how does Dusk Network’s Citadel fit in it?",
+            "description": "On 10 February, 2023, the European Union published an exciting, but incredibly complicatedly named document, specifically The Common Union Toolbox for a Coordinated Approach Towards a European Digital Identity Framework: The European Digital Identity Wallet A…",
+            "url": "https://cryptodaily.co.uk/2023/03/what-is-eudi-and-how-does-dusk-networks-citadel-fit-in-it",
+            "urlToImage": "https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/eudi-big.png",
+            "publishedAt": "2023-03-15T14:28:42Z",
+            "content": "On 10 February, 2023, the European Union published an exciting, but incredibly complicatedly named document, specifically The Common Union Toolbox for a Coordinated Approach Towards a European Digita… [+8935 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Research and Markets",
+            "title": "Global Relay Market Report to 2030 - Rising Investments in Renewable Energy Generation and Increasing Demand for Control Devices in End-User Industries Drives Growth",
+            "description": "Dublin, March 15, 2023 (GLOBE NEWSWIRE) -- The \"Relay Market by Type (Electromechanical, Thermal, Reed, Time, PhotoMOSFET, Solid State, MEMS), Application, Voltage Range (Low, Medium, High), Mounting Type (Panel, PCB, DIN Rail, Plug-In) and Region - Global Fo…",
+            "url": "https://www.globenewswire.com/news-release/2023/03/15/2627903/28124/en/Global-Relay-Market-Report-to-2030-Rising-Investments-in-Renewable-Energy-Generation-and-Increasing-Demand-for-Control-Devices-in-End-User-Industries-Drives-Growth.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2023-03-15T14:28:00Z",
+            "content": "Dublin, March 15, 2023 (GLOBE NEWSWIRE) -- The \"Relay Market by Type (Electromechanical, Thermal, Reed, Time, PhotoMOSFET, Solid State, MEMS), Application, Voltage Range (Low, Medium, High), Mounting… [+5330 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zdnet.de"
+            },
+            "author": "ZDNet-Redaktion",
+            "title": "VM Backup V9 mit Immutable Cloud-Speicher",
+            "description": "Manipulationssichere Backups schützen vor Ransomware-Angriffen und verlorenen Daten.",
+            "url": "https://www.zdnet.de/88407797/vm-backup-v9-mit-immutable-cloud-speicher/",
+            "urlToImage": "https://www.zdnet.de/wp-content/uploads/2023/03/data-the-cloud-storage-information-concept-2022-12-16-01-01-30-utc-scaled.jpg",
+            "publishedAt": "2023-03-15T14:26:53Z",
+            "content": "15 Prozent der Ransomware-Angriffe zielen laut Hornetsecurity speziell auf Backups ab. Jetzt bringt der Cybersecurity-Anbieter mit VM Backup V9 neue Funktionalitäten auf den Markt. In der neuesten Ve… [+1350 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Offsec.com"
+            },
+            "author": "Kyle Olmstead",
+            "title": "PEN-200 (PWK): Updated for 2023",
+            "description": "Explore the enhancements we're made to PEN-200 (PWK) 2023, including restructured course content, expanded Learning Modules, & Challenge Labs.\nThe post PEN-200 (PWK): Updated for 2023 appeared first on OffSec.",
+            "url": "https://www.offsec.com/offsec/pen-200-2023/",
+            "urlToImage": "https://www.offsec.com/wp-content/uploads/2023/03/Blog-Banner-PWKR-Announcement.jpg",
+            "publishedAt": "2023-03-15T14:24:57Z",
+            "content": "PEN-200 (PWK): Updated for 2023\r\nPEN-200 was last updated approximately three years ago, and we’re ready to announce the next phase of its evolution as the premier Penetration Testing training and ce… [+13140 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cisa.gov"
+            },
+            "author": "CISA",
+            "title": "Threat Actors Exploited Progress Telerik Vulnerability in U.S. Government IIS Server",
+            "description": "Today, the CISA, Federal Bureau of Investigation (FBI), and Multi-State Information Sharing and Analysis Center (MS-ISAC) released a joint Cybersecurity Advisory (CSA), Threat Actors Exploit Progress Telerik Vulnerability in U.S. Government IIS Server. This j…",
+            "url": "https://www.cisa.gov/news-events/alerts/2023/03/16/threat-actors-exploited-progress-telerik-vulnerability-us-government-iis-server",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T14:24:36Z",
+            "content": "Today, the CISA, Federal Bureau of Investigation (FBI), and Multi-State Information Sharing and Analysis Center (MS-ISAC) released a joint Cybersecurity Advisory (CSA), Threat Actors Exploit Progress… [+1335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FX Empire"
+            },
+            "author": "Reuters",
+            "title": "U.S. SEC has responsibility to protect for financial stability- Chair Gensler",
+            "description": "By Douglas Gillison (Reuters) -   The top U.S. markets regulator on Wednesday renewed a vow to prosecute any misconduct threatening global markets, saying it had a responsibility to protect market resiliency.",
+            "url": "https://www.fxempire.com/news/article/u-s-sec-has-responsibility-to-protect-for-financial-stability-chair-gensler-1311834",
+            "urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2023/03/tagreuters.com2023newsml_LYNXMPEJ2E0LW2.jpg",
+            "publishedAt": "2023-03-15T14:22:36Z",
+            "content": "The remarks from U.S. Securities and Exchange Commission (SEC) Chair Gary Gensler came after a weekend of turmoil involving the collapse of Silicon Valley Bank, as fears mounted for the Swiss lending… [+718 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Healthsystemcio.com"
+            },
+            "author": "Kate Gamble, Anthony Guerra",
+            "title": "Q&A with Luminis Health CDIO Saad Chaudhry, Part 1: “We Can’t Go Wrong If We’re Giving Back Time.”",
+            "description": "Despite its complexity, healthcare can be boiled down to a simple concept: giving back time, said Saad Chaudhry, CDIO at Luminis Health. In this podcast, he talks about the personal experience that altered his thinking, and how his team is leveraging digital …",
+            "url": "https://healthsystemcio.com/2023/03/15/qa-with-luminis-health-cdio-saad-chaudhry-part-1-were-in-the-business-of-time/",
+            "urlToImage": "https://healthsystemcio.com/wp-content/uploads/2021/02/Chaudhry_Saad_NEW.jpg",
+            "publishedAt": "2023-03-15T14:21:23Z",
+            "content": "Saad Chaudhry, Chief Digital &amp; Information Officer, Luminis Health\r\nThere is a fundamental problem in healthcare, and Saad Chaudhry wants to solve it. While we are in the business of lengthening … [+12452 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FX Empire"
+            },
+            "author": "Reuters",
+            "title": "Wall Street regulator unveils new hacking, data and market resiliency rules",
+            "description": "(Reuters) -   The top U.S. markets regulator on Wednesday announced a package of proposed policies designed to help harden the financial system against hacking, data theft and systems failure.",
+            "url": "https://www.fxempire.com/news/article/wall-street-regulator-unveils-new-hacking-data-and-market-resiliency-rules-1311835",
+            "urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2022/05/economic-news-1.jpg",
+            "publishedAt": "2023-03-15T14:21:23Z",
+            "content": "The three rule proposals govern how broker-dealers address hacking incidents and protect consumer data, and how stock exchanges and transaction clearing houses and others deemed critical to national … [+1847 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityweek.com"
+            },
+            "author": "Eduard Kovacs",
+            "title": "Chinese Cyberspies Hacked DLP Company Serving Military, Government Orgs",
+            "description": "The Chinese hacker group Tick has targeted an East Asian data loss prevention firm whose customers include military and other government organizations.\nThe post Chinese Cyberspies Hacked DLP Company Serving Military, Government Orgs appeared first on Security…",
+            "url": "https://www.securityweek.com/chinese-cyberspies-hacked-dlp-company-serving-military-government-orgs/",
+            "urlToImage": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+            "publishedAt": "2023-03-15T14:20:48Z",
+            "content": "A notorious Chinese cyberespionage group has been spotted targeting a data loss prevention (DLP) company that serves military and other government organizations.\r\nCybersecurity firm ESET analyzed the… [+1982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "phillymag.com"
+            },
+            "author": "Victor Fiorillo",
+            "title": "This Council Candidate Says Fleet of Drones Can Solve Philly’s Crime Problem",
+            "description": "Check phillymag.com each morning for the latest edition of Philly Today. And if you have a news tip for our hardworking Philly Mag reporters, please […]",
+            "url": "https://www.phillymag.com/news/2023/03/15/philadelphia-crime-drones-jalon-alexander/",
+            "urlToImage": "https://cdn10.phillymag.com/wp-content/uploads/sites/3/2023/03/philadelphia-crime-drones-jalon-alexander-social.jpg",
+            "publishedAt": "2023-03-15T14:18:10Z",
+            "content": "NewsHe wants to deploy \"Drone Force Philly.\" Plus: Old people can become Philly cops, too.\r\nCity Council-at-Large candidate Jalon Alexander says drones may be the answer to crime in Philadelphia (pho… [+6256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "Wall Street regulator unveils new hacking, data and market resiliency rules",
+            "description": "Wall Street regulator unveils new hacking, data and market resiliency rules",
+            "url": "https://www.investing.com/news/stock-market-news/wall-street-regulator-unveils-new-hacking-data-and-market-resiliency-rules-3031340",
+            "urlToImage": "https://i-invdn-com.investing.com/news/WallStreet_800x533_L_1606309104.jpg",
+            "publishedAt": "2023-03-15T14:16:58Z",
+            "content": "(Reuters) - The top U.S. markets regulator on Wednesday announced a package of proposed policies designed to help harden the financial system against hacking, data theft and systems failure.\r\nAt a pu… [+2215 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "U.S. SEC has responsibility to protect for financial stability- Chair Gensler",
+            "description": "U.S. SEC has responsibility to protect for financial stability- Chair Gensler",
+            "url": "https://www.investing.com/news/stock-market-news/us-sec-has-responsibility-to-protect-for-financial-stability-chair-gensler-3031336",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_L.jpg",
+            "publishedAt": "2023-03-15T14:16:31Z",
+            "content": "By Douglas Gillison\r\n(Reuters) - The top U.S. markets regulator on Wednesday renewed a vow to prosecute any misconduct threatening global markets, saying it had a responsibility to protect market res… [+842 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "wsj.com",
+            "title": "SEC to Consider New Cybersecurity Rules for Financial Firms",
+            "description": "WASHINGTON—Brokers and asset managers would have to notify their customers of data breaches as part of a raft of cybersecurity-related rules the Securities and Exchange Commission is set to vote on Wednesday. The customer-notification requirement would give f…",
+            "url": "https://biztoc.com/x/dc5bc0ac613ab62b",
+            "urlToImage": "https://c.biztoc.com/p/dc5bc0ac613ab62b/og.webp",
+            "publishedAt": "2023-03-15T14:16:05Z",
+            "content": "WASHINGTONBrokers and asset managers would have to notify their customers of data breaches as part of a raft of cybersecurity-related rules the Securities and Exchange Commission is set to vote on We… [+233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Guy Yehiav, Forbes Councils Member, \n Guy Yehiav, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/guyyehiav/",
+            "title": "How Healthcare CIOs Can Leverage Increased Data Exchange",
+            "description": "For healthcare CIOs, ensuring that the fundamental components of their IT organization can support innovation and transformation is a top priority.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-healthcare-cios-can-leverage-increased-data-exchange/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/632dbbaa69b953ca837d2c1f/0x0.jpg?format=jpg&crop=5700,3206,x0,y0,safe&width=1200",
+            "publishedAt": "2023-03-15T14:15:00Z",
+            "content": "Guy, a recognized industry thought leader, is the president of SmartSense, IoT solutions for the enterprise.\r\ngetty\r\nAs healthcare professionals anticipate improvements in health data interoperabilit… [+6778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "PARAGON SYSTEMS ANNOUNCES LAUNCH OF CYBERSECURITY EDUCATIONAL PARTNERSHIP",
+            "description": "Paragon Systems, Inc is pleased to announce partnership with Rowan University's Department of Electrical & Computer Engineering and participation in Rowan's recent STEM Career Fair HERNDON, Va., March 15, 2023 /PRNewswire/ -- Paragon and its partner, DTCUBED,…",
+            "url": "https://www.prnewswire.com/news-releases/paragon-systems-announces-launch-of-cybersecurity-educational-partnership-301772467.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2033295/IMG_0085.jpg?p=facebook",
+            "publishedAt": "2023-03-15T14:15:00Z",
+            "content": "Paragon Systems, Inc is pleased to announce partnership with Rowan University's Department of Electrical &amp; Computer Engineering and participation in Rowan's recent STEM Career Fair \r\nHERNDON, Va.… [+2431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techtarget.com"
+            },
+            "author": "Arielle Waldman",
+            "title": "Rubrik discloses data breach, blames Fortra zero-day",
+            "description": "The cybersecurity vendor said it is investigating a data breach after attackers exploited a zero-day vulnerability in Fortra's GoAnywhere managed file transfer software.",
+            "url": "https://www.techtarget.com/searchsecurity/news/365532755/Rubrik-discloses-data-breach-blames-Fortra-zero-day",
+            "urlToImage": "https://cdn.ttgtmedia.com/rms/onlineimages/security_a303249453.jpg",
+            "publishedAt": "2023-03-15T14:12:00Z",
+            "content": "Cybersecurity vendor Rubrik disclosed a data breach Wednesday and attributed the incident to a zero-day vulnerability in Fortra's GoAnywhere MFT software.\r\nIn a statement, Rubrik CISO Michael Mestrov… [+3788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "theblock.co",
+            "title": "SEC to vote on cybersecurity, consumer privacy rule proposals",
+            "description": "The Securities and Exchange Commission will vote on new rules and changes to bolster requirements for cybersecurity, privacy and tech infrastructure that officials said could encompass cryptocurrencies. The five-member commission will vote Wednesday morning o…",
+            "url": "https://biztoc.com/x/fcbb73a21d72a72a",
+            "urlToImage": "https://c.biztoc.com/p/fcbb73a21d72a72a/og.webp",
+            "publishedAt": "2023-03-15T14:11:43Z",
+            "content": "The Securities and Exchange Commission will vote on new rules and changes to bolster requirements for cybersecurity, privacy and tech infrastructure that officials said could encompass cryptocurrenci… [+285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "Reuters",
+            "title": "Wall Street regulator unveils new hacking, data and market resiliency rules",
+            "description": "(marketscreener.com) The top U.S. markets regulator on Wednesday announced a package of proposed policies designed to help harden the financial system against hacking, data theft and systems failure.https://www.marketscreener.com/news/latest/Wall-Street-regul…",
+            "url": "https://www.marketscreener.com/news/latest/Wall-Street-regulator-unveils-new-hacking-data-and-market-resiliency-rules--43252967/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_ZB_fdnoir.png",
+            "publishedAt": "2023-03-15T14:10:10Z",
+            "content": "(Reuters) - The top U.S. markets regulator on Wednesday announced a package of proposed policies designed to help harden the financial system against hacking, data theft and systems failure.\r\n At a p… [+2265 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "U.S. SEC has responsibility to protect for financial stability- Chair Gensler",
+            "description": "(marketscreener.com) The top U.S. markets regulator on Wednesday renewed a vow to prosecute any misconduct threatening global markets, saying it had a responsibility to protect market resiliency. https://www.marketscreener.com/quote/stock/CREDIT-SUISSE-GROUP-…",
+            "url": "https://www.marketscreener.com/quote/stock/CREDIT-SUISSE-GROUP-AG-9364979/news/U-S-SEC-has-responsibility-to-protect-for-financial-stability-Chair-Gensler-43252966/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://img.zonebourse.com/reuters/2022-12/2022-12-07T161808Z_1_LYNXMPEIB60TR_RTROPTP_3_USA-CONGRESS-SEC.JPG",
+            "publishedAt": "2023-03-15T14:08:40Z",
+            "content": "The remarks from U.S. Securities and Exchange Commission (SEC) Chair Gary Gensler came after a weekend of turmoil involving the collapse of Silicon Valley Bank, as fears mounted for the Swiss lending… [+743 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "yahoo.com",
+            "title": "A-Labs Reaffirms $20 million PIPE Investment in HUB at $10 per share",
+            "description": "HUB Cyber Security Ltd (Nasdaq: HUBC), a developer of Confidential Computing cybersecurity solutions and services (\"HUB\" or the \"Company\"), announced today that the Israeli investment bank, A-Labs Advisory & Finance Ltd. (“ALabs”), has reaffirmed its irrevoca…",
+            "url": "https://biztoc.com/x/3d6040dbf30fc5da",
+            "urlToImage": "https://c.biztoc.com/p/3d6040dbf30fc5da/og.webp",
+            "publishedAt": "2023-03-15T14:06:04Z",
+            "content": "HUB Cyber Security Ltd (Nasdaq: HUBC), a developer of Confidential Computing cybersecurity solutions and services (\"HUB\" or the \"Company\"), announced today that the Israeli investment bank, A-Labs Ad… [+314 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Chris Matthews",
+            "title": ": SEC Chief Gensler pledges investigation in wake of bank failures",
+            "description": "Staff is focused on 'prosecuting any form of conduct that might threaten investors, capital formation or the markets,' Gensler said.",
+            "url": "https://www.marketwatch.com/story/sec-chief-gensler-pledges-investigation-in-wake-of-bank-failures-cdfdd2eb",
+            "urlToImage": "https://images.mktw.net/im-743446/social",
+            "publishedAt": "2023-03-15T14:05:48Z",
+            "content": "The nations top securities watchdog said Wednesday that regulators are focused on identifying and punishing misconduct related to last weeks failures of Silicon Valley Bank and Signature Bank. Histor… [+2575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "Cybercriminals' crypto platform ChipMixer seized in international operation",
+            "description": "BRUSSELS :International authorities have cracked down on the cryptocurrency platform ChipMixer, alleging it helped obscure the digital money trail for online drug dealers, Russian military hackers and North Korean cybercriminals, Europe's Europol police agenc…",
+            "url": "https://www.channelnewsasia.com/business/cybercriminals-crypto-platform-chipmixer-seized-international-operation-3349201",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--u8g40fEI--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-03-15t142142z_1_lynxmpej2e0me_rtroptp_3_europol-the-hague.jpg?itok=_sd4NYdX",
+            "publishedAt": "2023-03-15T14:03:34Z",
+            "content": "BRUSSELS :International authorities have cracked down on the cryptocurrency platform ChipMixer, alleging it helped obscure the digital money trail for online drug dealers, Russian military hackers an… [+2424 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Csoonline.com"
+            },
+            "author": "Shweta Sharma",
+            "title": "Dell beefs up security portfolio with new threat detection and recovery tools",
+            "description": "Dell Technologies has added a slew of in-house as well as partnered capabilities to its security portfolio in a bid to beef up its capabilities in areas including threat security, management, and incident response.\r\n“Through ongoing innovation and a powerful …",
+            "url": "https://www.csoonline.com/article/3690889/dell-beefs-up-security-portfolio-with-new-threat-detection-and-recovery-tools.html",
+            "urlToImage": "https://images.idgesg.net/images/article/2023/02/dell-100937786-large.jpg?auto=webp&quality=85,70",
+            "publishedAt": "2023-03-15T14:02:00Z",
+            "content": "Dell Technologies has added a slew of in-house as well as partnered capabilities to its security portfolio in a bid to beef up its capabilities in areas including threat security, management, and inc… [+5496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Franklin Templeton Appoints Dean R. Sackett III as Managing Director of Government Affairs",
+            "description": "(marketscreener.com) \nFranklin Resources, Inc. [NYSE:BEN], a global investment management organization operating as Franklin Templeton, today announced the appointment of Dean R. Sackett III as Managing Director of Government Affairs. In this newly created ro…",
+            "url": "https://www.marketscreener.com/quote/stock/FRANKLIN-RESOURCES-INC-11807/news/Franklin-Templeton-Appoints-Dean-R-Sackett-III-as-Managing-Director-of-Government-Affairs-43252938/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2023-03-15T14:01:02Z",
+            "content": "Franklin Resources, Inc. [NYSE:BEN], a global investment management organization operating as Franklin Templeton, today announced the appointment of Dean R. Sackett III as Managing Director of Govern… [+3596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dark Reading"
+            },
+            "author": "Ross Haleliuk , Product Leader and Head of Product, LimaCharlie",
+            "title": "Why Security Practitioners Should Understand Their Business",
+            "description": "The sooner CISOs become proactive in understanding the flip side of the organizations they protect, the better they'll be at their jobs.",
+            "url": "https://www.darkreading.com/risk/why-security-practitioners-should-understand-their-business",
+            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt854e8df3fa41041e/60e2e146b08e424bfbc41b47/BusinessIntellligence-ipopba-adobe.jpg",
+            "publishedAt": "2023-03-15T14:00:00Z",
+            "content": "Not too long ago, cybersecurity was seen as something separate from the rest of a business (think two guys in hoodies working in a separate room). But in the past decade, it has finally received well… [+5566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Olivia Lanes",
+            "title": "Quantum Computing Is the Future, and Schools Need to Catch Up",
+            "description": "Top universities are finally bringing the excitement of the quantum future into the classroom",
+            "url": "https://www.scientificamerican.com/article/quantum-computing-is-the-future-and-schools-need-to-catch-up/",
+            "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/F0B9FA45-1DA0-4884-A8656AA9D36409CD.jpg",
+            "publishedAt": "2023-03-15T14:00:00Z",
+            "content": "The harnessed power of the subatomic world could soon upend the modern computing industry. Quantum computers are all over the news, and fundamental work on the theory that gave rise to them even won … [+6837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BetaNews"
+            },
+            "author": "Ian Barker",
+            "title": "Mid-sized businesses lack cybersecurity expertise",
+            "description": "A new study reveals that 61 percent of mid-sized businesses don't have dedicated cybersecurity experts in their organization. The research from managed security platform Huntress also shows 24 percent of mid-sized businesses have suffered a cyber attack or ar…",
+            "url": "https://betanews.com/2023/03/15/mid-sized-businesses-lack-cybersecurity-expertise/",
+            "urlToImage": "https://betanews.com/wp-content/uploads/2013/07/Missing-Puzzle-Pieces-e1434103894980-50x50.jpg",
+            "publishedAt": "2023-03-15T13:59:57Z",
+            "content": "A new study reveals that 61 percent of mid-sized businesses don't have dedicated cybersecurity experts in their organization.\r\nThe research from managed security platform Huntress also shows 24 perce… [+1766 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Finextra"
+            },
+            "author": "Editorial Team",
+            "title": "The evolution of payments in the post-FTX world (Manish Malhotra)",
+            "description": "Given the rise of payment banks, revenue, and others – it is imperative on payment processors provid...",
+            "url": "https://www.finextra.com/blogposting/23889/the-evolution-of-payments-in-the-post-ftx-world",
+            "urlToImage": "https://www.finextra.com/finextra-images/member_photos/thumb_153896_manish_malhotra_5.jpg",
+            "publishedAt": "2023-03-15T13:54:55Z",
+            "content": "Given the rise of payment banks, revenue, and others it is imperative on payment processors provide a better experience, not just to retail customers but to SMEs too. Emerging technologies are reshap… [+5369 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": null,
+            "title": "Israeli firm inks first UAE deal to help telecom giant crack down on cyberthreats",
+            "description": "Cyberint's intelligence platform provides real-time responses to cyberattack attempts coming from beyond the traditional security perimeters to fix them before they become an issue",
+            "url": "https://www.timesofisrael.com/israeli-firm-inks-first-uae-deal-to-help-telecom-giant-crack-down-on-cyberthreats/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/03/NKW01152-1024x640.jpg",
+            "publishedAt": "2023-03-15T13:48:59Z",
+            "content": "Cyberint Technologies Ltd., an Israel-based company specializing in cyber-intelligence, announced on Wednesday that it has inked an agreement with United Arab Emirates-based telecom company etisalat … [+3961 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "1105 Media Inc",
+            "title": "New ‘Tech Tactics in Education’ Conference Announced by Campus Technology and THE Journal",
+            "description": "Coming to Orlando Nov. 7-9, 2023, the three-day in-person event will explore “Data and IT Security in the New Now” Coming to Orlando Nov. 7-9, 2023, the three-day in-person event will explore “Data and IT Security in the New Now”",
+            "url": "https://www.globenewswire.com/news-release/2023/03/15/2627836/0/en/New-Tech-Tactics-in-Education-Conference-Announced-by-Campus-Technology-and-THE-Journal.html",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T13:45:00Z",
+            "content": "Irvine, California, March 15, 2023 (GLOBE NEWSWIRE) -- Registration is now open for Tech Tactics in Education: Data and IT Security in the New Now, a new conference from the producers of Campus Techn… [+6641 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sean Lyngaas",
+            "title": "Russian hackers targeted European military and transport organizations in newly discovered spying campaign",
+            "description": "Russian military-linked hackers used a critical flaw in Microsoft's email software to target -- and in some cases infiltrate -- the networks of European military, energy and transportation organizations in an apparent spying campaign that went undetected for …",
+            "url": "https://www.cnn.com/2023/03/15/politics/russian-hackers-europe-military-organizations-microsoft/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230315090848-russian-hackers-target-european-military-organizations.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-15T13:39:54Z",
+            "content": "Russian military-linked hackers used a critical flaw in Microsofts email software to target and in some cases infiltrate the networks of European military, energy and transportation organizations in … [+2434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vmblog.com"
+            },
+            "author": "David Marshall",
+            "title": "Dell Technologies Strengthens Security Portfolio with New Services and Solutions",
+            "description": "Dell Technologies is announcing new security services and solutions to help organizations protect against threats, respond to attacks and secure their devices, systems and clouds.",
+            "url": "https://vmblog.com:443/archive/2023/03/15/dell-technologies-strengthens-security-portfolio-with-new-services-and-solutions.aspx",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T13:39:00Z",
+            "content": "Dell Technologies is announcing new security services and solutions \r\nto help organizations protect against threats, respond to attacks and \r\nsecure their devices, systems and clouds.\r\nSeventy-two pe… [+6375 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Dani Romero",
+            "title": "Stock market news today: Stocks plummet, yields fall amid Credit Suisse turmoil",
+            "description": "U.S. stock were sharply lower Wednesday morning as two economic prints showed a slowdown in February, coupled with fresh turmoil at Credit Suisse (CS) that...",
+            "url": "https://finance.yahoo.com/news/stock-market-news-today-live-updates-march-15-2023-114153589.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dBV9TKMqMCnBodgb31FlwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTg-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/d9d46b40-c2cb-11ed-9ffb-b4fdfe19f2e9",
+            "publishedAt": "2023-03-15T13:34:10Z",
+            "content": "U.S. stock were sharply lower Wednesday morning as two economic prints showed a slowdown in February, coupled with fresh turmoil at Credit Suisse (CS) that weighed on sentiment.\r\nThe S&amp;P 500 (^GS… [+5414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Harvard School of Engineering and Applied Sciences"
+            },
+            "author": "Stilpon Nestor, Stilpon Nestor",
+            "title": "Governance of Sustainability in the Largest Global Banks",
+            "description": "Introduction Banks are at the heart of every major national economy — and of the global economy as a whole. By intermediating between savers and companies, they are a prime allocator of capital across all economic sectors. In the process, they make decisions …",
+            "url": "https://corpgov.law.harvard.edu/2023/03/15/governance-of-sustainability-in-the-largest-global-banks/",
+            "urlToImage": "https://corpgov.law.harvard.edu/wp-content/uploads/2021/03/new-shield-facebook.png",
+            "publishedAt": "2023-03-15T13:31:33Z",
+            "content": "Introduction\r\nBanks are at the heart of every major national economy and of the global economy as a whole. By intermediating between savers and companies, they are a prime allocator of capital across… [+21325 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Craig Hale",
+            "title": "The NCSC warns of the dangers of ChatGPT",
+            "description": "The UK’s National Cyber Security Centre has issued a warning about the dangers of AI chatbots.",
+            "url": "https://www.techradar.com/news/the-ncsc-warns-of-the-dangers-of-chatgpt",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FgQqSr7BU6hH2GnhNMawLB-1200-80.jpg",
+            "publishedAt": "2023-03-15T13:30:06Z",
+            "content": "AI writers\r\n and chatbots have seen huge success in recent months following a boom started by ChatGPT since its launch in November 2022.\r\nWith its latest incarnation now upon us - the multi-modal GPT… [+1687 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "News Direct",
+            "title": "A-Labs Reaffirms $20 million PIPE Investment in HUB at $10 per share",
+            "description": "HUB Cyber Security Ltd (Nasdaq: HUBC), a developer of Confidential Computing cybersecurity solutions and services (\"HUB\" or the \"Company\"), announced today...",
+            "url": "https://finance.yahoo.com/news/labs-reaffirms-20-million-pipe-132513653.html",
+            "urlToImage": "https://media.zenfs.com/en/news_direct/61ae76b1ff3b4a467e0124d852925428",
+            "publishedAt": "2023-03-15T13:25:13Z",
+            "content": "Tel Aviv, Israel --News Direct-- HUB Cyber Security Ltd\r\nHUB Cyber Security Ltd (Nasdaq: HUBC), a developer of Confidential Computing cybersecurity solutions and services (\"HUB\" or the \"Company\"), an… [+6852 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "Anonymous Coward",
+            "title": "Federal Tech's 'Gross Mismanagement' Befor 'Equity'-Induced Cybersecurity Fiasco",
+            "description": "The General Services Administration (GSA) Inspector General found that GSA’s disruptive tech unit, the Technology Transformation Service (TTS), tricked federal agencies into violating security standards by omitting facial recognition from software designed to…",
+            "url": "https://slashdot.org/submission/17200721/federal-techs-gross-mismanagement-befor-equity-induced-cybersecurity-fiasco",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T13:22:51Z",
+            "content": "The General Services Administration (GSA) Inspector General found that GSA’s disruptive tech unit, the Technology Transformation Service (TTS), tricked federal agencies into violating security standa… [+1268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Rimini Street Earns 2023 Top Workplaces USA Award from Energage",
+            "description": "(marketscreener.com) \nAward recognizes Company as an exceptional employer that upholds a rich culture of engagement and high performance\nhttps://www.marketscreener.com/quote/stock/RIMINI-STREET-INC-45375850/news/Rimini-Street-Earns-2023-Top-Workplaces-USA-Awa…",
+            "url": "https://www.marketscreener.com/quote/stock/RIMINI-STREET-INC-45375850/news/Rimini-Street-Earns-2023-Top-Workplaces-USA-Award-from-Energage-43252419/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2023-03-15T13:15:02Z",
+            "content": "Rimini Street, Inc. (Nasdaq: RMNI), a global provider of enterprise software products and services, the leading third-party support provider for Oracle and SAP software products, and a Salesforce par… [+10627 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Amazon com : 3 ways Amazon supports its customers every day",
+            "description": "(marketscreener.com) \n Learn how Amazon's mission to become Earth's most customer-centric company honors World Consumer Rights Day.\n \n \n \n Amazon has always focused on creating a trusted shopping experience for its customers. In 1997, founder Jeff Bezos wrote…",
+            "url": "https://www.marketscreener.com/quote/stock/AMAZON-COM-INC-12864605/news/Amazon-com-3-ways-Amazon-supports-its-customers-every-day-43252351/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2023-03-15T13:10:20Z",
+            "content": "Amazon has always focused on creating a trusted shopping experience for its customers. In 1997, founder Jeff Bezos wrote into his first shareholder letter that \"we will continue to focus relentlessly… [+3311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "PR Newswire",
+            "title": "6clicks Launches Global System Integrator Program with Appointment of Mark Harris and Formation of 6clicks Labs to Accelerate GRC Innovation",
+            "description": "6clicks, the GRC innovators, today announced a comprehensive Global System Integrator program with the appointment of former KPMG global GRC leader Mark...",
+            "url": "https://finance.yahoo.com/news/6clicks-launches-global-system-integrator-130300789.html",
+            "urlToImage": "https://media.zenfs.com/en/prnewswire.com/00d65e38315c3aa47ed96e4a434180e7",
+            "publishedAt": "2023-03-15T13:03:00Z",
+            "content": "Former KPMG global GRC leader joins 6clicks to lead GSI program and new 6clicks Labs to advance RegTech for all global system integrators\r\nMELBOURNE, Australia, March 15, 2023 /PRNewswire/ -- 6clicks… [+5708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "6clicks Launches Global System Integrator Program with Appointment of Mark Harris and Formation of 6clicks Labs to Accelerate GRC Innovation",
+            "description": "Former KPMG global GRC leader joins 6clicks to lead GSI program and new 6clicks Labs to advance RegTech for all global system integrators MELBOURNE, Australia, March 15, 2023 /PRNewswire/ -- 6clicks, the GRC innovators, today announced a comprehensive Global …",
+            "url": "https://www.prnewswire.com/news-releases/6clicks-launches-global-system-integrator-program-with-appointment-of-mark-harris-and-formation-of-6clicks-labs-to-accelerate-grc-innovation-301772539.html",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T13:03:00Z",
+            "content": "Former KPMG global GRC leader joins 6clicks to lead GSI program and new 6clicks Labs to advance RegTech for all global system integrators\r\nMELBOURNE, Australia, March 15, 2023 /PRNewswire/ -- 6clicks… [+5470 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Dell Technologies Strengthens Security Portfolio with New Services and Solutions",
+            "description": "(marketscreener.com) \n\nROUND ROCK, Texas, March 15, 2023 /PRNewswire/ -- \n\n \n \n \n \n \n \n\n \nNews summary\nDell Technologies Managed Detection and Response Pro Plus blocks routes to cyberattacks and accelerates recoveryDell extends threat management capabilities.…",
+            "url": "https://www.marketscreener.com/quote/stock/DELL-TECHNOLOGIES-INC-50061235/news/Dell-Technologies-Strengthens-Security-Portfolio-with-New-Services-and-Solutions-43252124/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2023-03-15T13:01:13Z",
+            "content": "ROUND ROCK, Texas, March 15, 2023 /PRNewswire/ -- \r\nNews summary\r\n<ul><li>Dell Technologies Managed Detection and Response Pro Plus blocks routes to cyberattacks and accelerates recovery</li><li>Dell… [+8266 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Emirates National Oil Company Transforms Customer Experience and Increases Operational Efficiency with Fortinet Secure SD-WAN",
+            "description": "(marketscreener.com) 55% cost savings resulting from lower multiprotocol label switching usage and simpler administrationIncreased revenue and enhanced customer experience through 18x reduction in point of sale transaction time Improved operational efficiency…",
+            "url": "https://www.marketscreener.com/quote/stock/FORTINET-INC-60103137/news/Emirates-National-Oil-Company-Transforms-Customer-Experience-and-Increases-Operational-Efficiency-wi-43252108/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdgris.png",
+            "publishedAt": "2023-03-15T13:01:02Z",
+            "content": "<ul><li>55% cost savings resulting from lower multiprotocol label switching (MPLS) usage and simpler administration</li><li>Increased revenue and enhanced customer experience through 18x reduction in… [+8112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Duncan Riley",
+            "title": "New Dell security services help protect against threats and attacks",
+            "description": "Dell Technologies Inc. today announced a range of new security services and solutions designed to help organizations protect against threats, respond to attacks and secure their devices, systems and clouds. Leading the announcements is Managed Detection and R…",
+            "url": "https://siliconangle.com/2023/03/15/new-dell-security-services-help-protect-threats-attacks/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/dell.png",
+            "publishedAt": "2023-03-15T13:00:52Z",
+            "content": "Dell Technologies Inc. today announced a range of new security services and solutions designed to help organizations protect against threats, respond to attacks and secure their devices, systems and … [+4113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cloudflare.com"
+            },
+            "author": "Jesse Kipp",
+            "title": "Using the power of Cloudflare’s global network to detect malicious domains using machine learning",
+            "description": "Cloudflare has developed proprietary models leveraging machine learning and other advanced analytical techniques to detect security threats that take advantage of the domain name system (DNS)",
+            "url": "https://blog.cloudflare.com/threat-detection-machine-learning-models/",
+            "urlToImage": "http://blog.cloudflare.com/content/images/2023/03/Using-the-power-of-Cloudflare-s-global-network-to-detect-malicious-domains-using-machine-learning-OG-1.png",
+            "publishedAt": "2023-03-15T13:00:00Z",
+            "content": "Cloudflare secures outbound Internet traffic for thousands of organizations every day, protecting users, devices, and data from threats like ransomware and phishing. One way we do this is by intellig… [+14350 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Axis' Atmos SSE Platform Named Best Security Service at 19th Annual 2023 Globee® Cybersecurity Awards",
+            "description": "Co-founder Gil Azrielant Named Chief Technology Officer of the Year (Cybersecurity) PLANO, Texas, March 15, 2023 /PRNewswire/ -- Axis announced today that its Atmos Security Service Edge (SSE) platform has been named Best Security Service at 19th Annual 2023 …",
+            "url": "https://www.prnewswire.com/news-releases/axis-atmos-sse-platform-named-best-security-service-at-19th-annual-2023-globee-cybersecurity-awards-301771766.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1794578/Logo_TwoLines_Color_ForLightBG_Logo.jpg?p=facebook",
+            "publishedAt": "2023-03-15T13:00:00Z",
+            "content": "Co-founder Gil Azrielant Named Chief Technology Officer of the Year (Cybersecurity)\r\nPLANO, Texas, March 15, 2023 /PRNewswire/ -- Axis\r\n announced today that its Atmos Security Service Edge (SSE) pla… [+3963 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Infosecurity Magazine"
+            },
+            "author": "Brett Raybould",
+            "title": "Will ChatGPT Democratize the Development of Evasive Malware?",
+            "description": "Menlo Security's Brett Raybould outlines the potential cyber-threats posed by ChatGPT",
+            "url": "https://www.infosecurity-magazine.com/blogs/chatgpt-democratize-evasive-malware/",
+            "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/fa9214ac-4af1-418a-86a0-f927f6932321.jpg",
+            "publishedAt": "2023-03-15T13:00:00Z",
+            "content": "ChatGPT has garnered significant attention since its release on November 20, 2022.\r\nDubbed the world’s most advanced chatbot, this powerful new artificial intelligence (AI) system developed by OpenAI… [+5080 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dark Reading"
+            },
+            "author": "Robert Lemos, Contributing Writer, Dark Reading",
+            "title": "SMBs Orgs Want Help, but Cybersecurity Expertise Is Scarce",
+            "description": "Smaller firms are boosting cybersecurity budgets, but there's a long way to go to address a deep lack of cyber preparedness among SMBs.",
+            "url": "https://www.darkreading.com/operations/midsize-orgs-want-help-cybersecurity-pros-scarce",
+            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt061e52ffe189ae6b/614b543fe98ded0e519b5298/iStock_000065468381_Medium.jpg",
+            "publishedAt": "2023-03-15T13:00:00Z",
+            "content": "Nearly half of small and midsize businesses (SMBs) plan to spend more on cybersecurity in 2023 which is a good thing given that six in 10 firms (61%) have no dedicated cybersecurity staff, about half… [+3615 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PR Newswire UK"
+            },
+            "author": null,
+            "title": "HORNETSECURITY CHALLENGES RANSOMWARE ATTACKS WITH LAUNCH OF VM BACKUP V9 LEVERAGING IMMUTABLE CLOUD STORAGE",
+            "description": "New Hornetsecurity data backup software, featuring tamper-proof solution, protects against growing threat of malicious ransomware threats Hornetsecurity research highlights that more than 1 in 4 companies have fallen victim to ransomware attacks, with 14.1% l…",
+            "url": "https://www.prnewswire.co.uk/news-releases/hornetsecurity-challenges-ransomware-attacks-with-launch-of-vm-backup-v9-leveraging-immutable-cloud-storage-301772746.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2033076/Hornetsecurity_Logo.jpg?p=facebook",
+            "publishedAt": "2023-03-15T13:00:00Z",
+            "content": "<ul><li>New Hornetsecurity data backup software, featuring tamper-proof solution, protects against growing threat of malicious ransomware threats</li><li>Hornetsecurity research highlights that more … [+3369 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Matthew Morgan, Forbes Councils Member, \n Matthew Morgan, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/matthewmorgan/",
+            "title": "Why Artificial Intelligence Is Becoming A Cybersecurity Imperative And How To Implement It",
+            "description": "One of the most often-asked questions that I receive from customers is: How do organizations plan for the adoption of AI technology in their cybersecurity strategies? In other words, how should one get started?",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/why-artificial-intelligence-is-becoming-a-cybersecurity-imperative-and-how-to-implement-it/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/61698e080de1a3a858994825/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-03-15T13:00:00Z",
+            "content": "Matthew J. Morgan, CyberSecurity and AI Industry Executive at CrowdStrike.\r\ngetty\r\nIn my role as a customer executive at CrowdStrike, I frequently collaborate with leading CIOs and CISOs from Fortune… [+5415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Dell Technologies Strengthens Security Portfolio with New Services and Solutions",
+            "description": "ROUND ROCK, Texas, March 15, 2023 /PRNewswire/ -- News summary Dell Technologies Managed Detection and Response Pro Plus blocks routes to cyberattacks and accelerates recovery Dell extends threat management capabilities across endpoints, networks and clouds w…",
+            "url": "https://www.prnewswire.com/news-releases/dell-technologies-strengthens-security-portfolio-with-new-services-and-solutions-301772270.html",
+            "urlToImage": "https://mma.prnewswire.com/media/1089905/Dell_Technologies_Logo.jpg?p=facebook",
+            "publishedAt": "2023-03-15T13:00:00Z",
+            "content": "ROUND ROCK, Texas, March 15, 2023 /PRNewswire/ -- \r\nNews summary\r\n<ul><li>Dell Technologies Managed Detection and Response Pro Plus blocks routes to cyberattacks and accelerates recovery</li><li>Dell… [+8083 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Fortinet, Inc.",
+            "title": "Emirates National Oil Company Transforms Customer Experience and Increases Operational Efficiency with Fortinet Secure SD-WAN",
+            "description": "SUNNYVALE, Calif., March 15, 2023 (GLOBE NEWSWIRE) -- Fortinet® (NASDAQ: FTNT), the global cybersecurity leader driving the convergence of networking and security, today announced that Emirates National Oil Company Limited (ENOC), a wholly owned company of th…",
+            "url": "https://www.globenewswire.com/news-release/2023/03/15/2627722/0/en/Emirates-National-Oil-Company-Transforms-Customer-Experience-and-Increases-Operational-Efficiency-with-Fortinet-Secure-SD-WAN.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/5ff95cf2-3889-43ac-b81c-1d5cffe84868",
+            "publishedAt": "2023-03-15T13:00:00Z",
+            "content": "<ul><li>55% cost savings resulting from lower multiprotocol label switching (MPLS) usage and simpler administration</li><li>Increased revenue and enhanced customer experience through 18x reduction in… [+8092 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "HORNETSECURITY CHALLENGES RANSOMWARE ATTACKS WITH LAUNCH OF VM BACKUP V9 LEVERAGING IMMUTABLE CLOUD STORAGE",
+            "description": "New Hornetsecurity data backup software, featuring tamper-proof solution, protects against growing threat of malicious ransomware threats Hornetsecurity research highlights that more than 1 in 4 companies have fallen victim to ransomware attacks, with 14.1% l…",
+            "url": "https://www.prnewswire.com/news-releases/hornetsecurity-challenges-ransomware-attacks-with-launch-of-vm-backup-v9-leveraging-immutable-cloud-storage-301772744.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2033076/Hornetsecurity_Logo.jpg?p=facebook",
+            "publishedAt": "2023-03-15T13:00:00Z",
+            "content": "<ul><li>New Hornetsecurity data backup software, featuring tamper-proof solution, protects against growing threat of malicious ransomware threats</li><li>Hornetsecurity research highlights that more … [+3361 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Hoxhunt ChatGPT / Cybersecurity Research Reveals: Humans 1, AI 0",
+            "description": "Research Highlights Need for Accelerating Security Behavior Change Outcomes with Evolving Threat Landscape MINNEAPOLIS, March 15, 2023 /PRNewswire/ -- Hoxhunt, the leading cybersecurity behavior change software company, today released a research report that a…",
+            "url": "https://www.prnewswire.com/news-releases/hoxhunt-chatgpt--cybersecurity-research-reveals-humans-1-ai-0-301772441.html",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T13:00:00Z",
+            "content": "Research Highlights Need for Accelerating Security Behavior Change Outcomes with Evolving Threat Landscape\r\nMINNEAPOLIS, March 15, 2023 /PRNewswire/ -- Hoxhunt, the leading cybersecurity behavior cha… [+3096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Csoonline.com"
+            },
+            "author": "Michael Hill",
+            "title": "Palo Alto announces new SD-WAN features for IoT security, compliance support",
+            "description": "Cybersecurity vendor Palo Alto has announced new software-defined wide area network (SD-WAN) features in its Prisma SASE solution for IoT device security and to help customers meet industry-specific security compliance requirements. It has also announced adva…",
+            "url": "https://www.csoonline.com/article/3690888/palo-alto-announces-new-sd-wan-features-for-iot-security-compliance-support.html",
+            "urlToImage": "https://images.idgesg.net/images/article/2023/02/change-management-in-digital-transformation-internet-of-things-iot-and-new-technology-big-data-and-business-process-strategy-operation-automation-customer-service-managementand-cloud-computing-100937470-large.jpg?auto=webp&quality=85,70",
+            "publishedAt": "2023-03-15T12:55:00Z",
+            "content": "Cybersecurity vendor Palo Alto has announced new software-defined wide area network (SD-WAN) features in its Prisma SASE solution for IoT device security and to help customers meet industry-specific … [+5023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Nuspire Introduces Managed Microsoft Defender Solution",
+            "description": "Service Helps Businesses Optimize Microsoft Defender for Endpoint, ID, O365, and Cloud App Security COMMERCE, Mich., March 15, 2023 /PRNewswire/ -- Nuspire, a leading managed security services provider (MSSP), has announced the launch of its Managed Microsoft…",
+            "url": "https://www.prnewswire.com/news-releases/nuspire-introduces-managed-microsoft-defender-solution-301771082.html",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T12:55:00Z",
+            "content": "Service Helps Businesses Optimize Microsoft Defender for Endpoint, ID, O365, and Cloud App Security\r\nCOMMERCE, Mich., March 15, 2023 /PRNewswire/ -- Nuspire, a leading managed security services provi… [+3186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vmblog.com"
+            },
+            "author": "David",
+            "title": "Trustwave and Trellix Announce Strategic Partnership to Deliver Best-in-Class Managed Detection and Response to Protect Global Organizations",
+            "description": "Trustwave and Trellix announced a strategic partnership to bring more precise detection and response to security teams defending against cyberthreats.",
+            "url": "https://vmblog.com:443/archive/2023/03/15/trustwave-and-trellix-announce-strategic-partnership-to-deliver-best-in-class-managed-detection-and-response-to-protect-global-organizations.aspx",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T12:50:00Z",
+            "content": "Trustwave and Trellix announced a strategic partnership to bring more precise detection and response to \r\nsecurity teams defending against cyberthreats.\r\nTrustwave's Managed Detection and Response (M… [+3351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AdExchanger"
+            },
+            "author": "James Hercher",
+            "title": "A Walk Down Ad Fraud Memory Lane With Zach Edwards",
+            "description": "In this episode, we’ll take a walk down memory lane with Zach Edwards, Human’s senior manager for threat insights to see what progress the online ad industry has made when\nThe post A Walk Down Ad Fraud Memory Lane With Zach Edwards appeared first on AdExchang…",
+            "url": "http://www.adexchanger.com/adexchanger-talks/a-walk-down-ad-fraud-memory-lane-with-zach-edwards/",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T12:46:46Z",
+            "content": "Zach Edwards has had a long, winding journey through ad tech.\r\nHe started out in online advertising spending large sums on behalf of the Barack Obama campaign and over the years has worked on ad frau… [+1088 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityweek.com"
+            },
+            "author": "Ionut Arghire",
+            "title": "Dero, Monero Cryptojackers Fighting for Same Kubernetes Clusters",
+            "description": "Dero cryptojacking operation infecting Kubernetes infrastructure is being targeted by Monero criptojackers for control over the same clusters.\nThe post Dero, Monero Cryptojackers Fighting for Same Kubernetes Clusters appeared first on SecurityWeek.",
+            "url": "https://www.securityweek.com/dero-monero-cryptojackers-fighting-for-same-kubernetes-clusters/",
+            "urlToImage": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+            "publishedAt": "2023-03-15T12:37:16Z",
+            "content": "Cybersecurity firm CrowdStrike warns of a Dero cryptojacking operation infecting Kubernetes clusters that are also being targeted by a Monero cryptojacking campaign.\r\nDero is a cryptocurrency that us… [+2585 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Interview with OpenAI's Greg Brockman: GPT-4 isn't perfect, but neither are you",
+            "description": "In an interview with TechCrunch, OpenAI president Greg Brockman peeled back the curtains on what makes GPT-4 a big deal.",
+            "url": "https://techcrunch.com/2023/03/15/interview-with-openais-greg-brockman-gpt-4-isnt-perfect-but-neither-are-you/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800",
+            "publishedAt": "2023-03-15T12:32:38Z",
+            "content": "OpenAI shipped GPT-4 yesterday, the much-anticipated text-generating AI model, and it’s a curious piece of work.\r\nGPT-4 improves upon its predecessor, GPT-3, in key ways, for example giving more fact… [+7358 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Shan Abdul",
+            "title": "What Is GPTZero? How to Use It to Detect AI-Generated Text",
+            "description": "As the need to detect AI-generated text increases, tools like GPTZero become more important. Here's how to use it to check text for ChatGPT.",
+            "url": "https://www.makeuseof.com/gptzero-detect-ai-generated-text/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-placed-on-a-table-having-gptzero-website-open-in-it.jpg",
+            "publishedAt": "2023-03-15T12:31:16Z",
+            "content": "Since its launch, OpenAI's ChatGPT has become a concern for educational institutions worldwide as students have started to use it to write essays and cheat on assessments. Given how natural the text … [+6464 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Instapundit.com"
+            },
+            "author": "Glenn Reynolds",
+            "title": "GET WOKE, GO BROKE: Federal Tech Arm Had Pattern Of ‘Gross Mismanagement’ Before ‘Equity’-I",
+            "description": "GET WOKE, GO BROKE: Federal Tech Arm Had Pattern Of ‘Gross Mismanagement’ Before ‘Equity’-Induced Cybersecurity Fiasco.",
+            "url": "https://instapundit.com/574389/",
+            "urlToImage": "https://instapundit.com/wp-content/themes/instapundit/images/opengraph-default.png",
+            "publishedAt": "2023-03-15T12:30:59Z",
+            "content": "InstaPundit is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a\r\n means for sites to earn advertising fees by advertising and linkin… [+15 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Fordefi Becomes First Institutional DeFi Wallet to Earn SOC 2 Type II Certification",
+            "description": "NEW YORK, March 15, 2023 /PRNewswire/ -- Fordefi, a financial technology and software company, today announced that it has completed its SOC 2 Type II certification by Ernst & Young in accordance with the American Institute of Certified Public Accountants' (A…",
+            "url": "https://www.prnewswire.com/news-releases/fordefi-becomes-first-institutional-defi-wallet-to-earn-soc-2-type-ii-certification-301772191.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2033064/Fordefi_logo.jpg?p=facebook",
+            "publishedAt": "2023-03-15T12:30:00Z",
+            "content": "NEW YORK, March 15, 2023 /PRNewswire/ -- Fordefi, a financial technology and software company, today announced that it has completed its SOC 2 Type II certification by Ernst &amp; Young in accordance… [+2923 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IT World Canada"
+            },
+            "author": "Howard Solomon",
+            "title": "Cyber Security Today, March 15, 2023 – Rubrik is the latest victim of the GoAnywhere MFT hack, and 3 million Americans notified of a data leak",
+            "description": "Rubrik is the latest victim of the GoAnywhere MFT hack, 3 million Americans notified of a data leak, and more. Welcome to Cyber Security Today. It's Wednesday, March 15th, 2023. I'm Howard Solomon, contributing reporter on cybersecurity for ITWorldCanada.com …",
+            "url": "https://www.itworldcanada.com/article/cyber-security-today-march-15-2023-rubrik-is-the-latest-victim-of-the-goanywhere-mft-hack-and-3-million-americans-notified-of-a-data-leak/532928",
+            "urlToImage": "https://i.itworldcanada.com/wp-content/uploads/2021/03/cyber-security-today-text-middle2.png",
+            "publishedAt": "2023-03-15T12:27:45Z",
+            "content": "Rubrik is the latest victim of the GoAnywhere MFT hack, 3 million Americans notified of a data leak, and more.\r\nWelcome to Cyber Security Today. It’s Wednesday, March 15th, 2023. I’m Howard Solomon, … [+5351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dark Reading"
+            },
+            "author": "Adam Strange, Principal Analyst, Data Security",
+            "title": "Are we Doing Enough to Protect Our Unstructured Data?",
+            "description": "Organizations are coming under pressure to protect their data, but does all data need the same security? To secure it, you first need to know what and where it is",
+            "url": "https://www.darkreading.com/omdia/are-we-doing-enough-to-protect-our-unstructured-data-",
+            "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf75c1c6619950b99/6411b5f9e4b9410f399e2a10/hacker-4031973_1920.jpg",
+            "publishedAt": "2023-03-15T12:15:00Z",
+            "content": "Let's start by examining those two broad-brush data categories - structured and unstructured.\r\nStructured data refers to the data resident within relational databases, often presented via customer re… [+4887 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Palo Alto Networks Leads the Industry to AI-Powered SASE",
+            "description": "SANTA CLARA, Calif., March 15, 2023 /PRNewswire/ -- News Summary Palo Alto Networks today announced new capabilities to boost its single-vendor SASE solution enabling organizations to automate their increasingly complex IT and network operations center (NOC) …",
+            "url": "https://www.prnewswire.com/news-releases/palo-alto-networks-leads-the-industry-to-ai-powered-sase-301772548.html",
+            "urlToImage": "https://mma.prnewswire.com/media/325503/palo_alto_networks_logo_2015.jpg?p=facebook",
+            "publishedAt": "2023-03-15T12:15:00Z",
+            "content": "SANTA CLARA, Calif., March 15, 2023 /PRNewswire/ --\r\nNews SummaryPalo Alto Networks today announced new capabilities to boost its single-vendor SASE solution\r\n enabling organizations to automate thei… [+8237 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Expert Panel®, Forbes Councils Member, \n Expert Panel®, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/expertpanel/",
+            "title": "15 Ways Tech Teams Can Help Companies Provide An Outstanding CX",
+            "description": "By providing the right tools, resources and support, tech leaders can empower their colleagues to deliver a seamless, personalized and satisfying customer experience.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/15-ways-tech-teams-can-help-companies-provide-an-outstanding-cx/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6410f883e75a914733ab6abc/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-03-15T12:15:00Z",
+            "content": "In todays fast-paced business environment, providing an outstanding customer experience is essential for building brand loyalty and driving growth. While many teams within an organization play a role… [+7487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Help Net Security",
+            "title": "How Mirel Sehic relies on simplicity to focus on product security",
+            "description": "If you are developing a modern medical, manufacturing, or logistics facility, there’s no doubt that a large portion of your investment was made into the electronic aspects of your device. Sensors, connected devices, and machinery are synchronized to deliver a…",
+            "url": "https://www.helpnetsecurity.com/2023/03/15/mirel-sehic-product-security/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2023/03/15130250/mirel_sehic-cybellum_podcast-1000.jpg",
+            "publishedAt": "2023-03-15T12:10:13Z",
+            "content": "If you are developing a modern medical, manufacturing, or logistics facility, theres no doubt that a large portion of your investment was made into the electronic aspects of your device. Sensors, con… [+9504 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Sectigo",
+            "title": "Sectigo Diamond Sponsor of CloudFest 2023",
+            "description": "Sectigo, SiteLock Executives to Reveal How Modern Businesses Can Establish Digital Trust in a Cloud and Hybrid Cloud Digital World Sectigo, SiteLock Executives to Reveal How Modern Businesses Can Establish Digital Trust in a Cloud and Hybrid Cloud Digital Wor…",
+            "url": "https://www.globenewswire.com/news-release/2023/03/15/2627611/0/en/Sectigo-Diamond-Sponsor-of-CloudFest-2023.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/03374b82-0ed6-4c94-930a-54fad18d0048",
+            "publishedAt": "2023-03-15T12:05:00Z",
+            "content": "ROSELAND, N.J., March 15, 2023 (GLOBE NEWSWIRE) -- Sectigo®, a global leader in automated Certificate Lifecycle Management (CLM) and digital certificates, today announced it is sponsoring and speakin… [+4538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Sectigo",
+            "title": "Sectigo Diamond Sponsor of CloudFest 2023",
+            "description": "Sectigo, SiteLock Executives To Reveal How Modern Businesses Can Establish Digital Trust in a Cloud and Hybrid Cloud Digital World Sectigo, SiteLock Executives To Reveal How Modern Businesses Can Establish Digital Trust in a Cloud and Hybrid Cloud Digital Wor…",
+            "url": "https://www.globenewswire.com/news-release/2023/03/15/2627612/0/en/Sectigo-Diamond-Sponsor-of-CloudFest-2023.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/8275c839-33b8-48b7-9325-c8ede551b310",
+            "publishedAt": "2023-03-15T12:05:00Z",
+            "content": "ROSELAND, NJ, March 15, 2023 (GLOBE NEWSWIRE) -- Sectigo®, a global leader in automated Certificate Lifecycle Management (CLM) and digital certificates, today announced it is sponsoring and speaking … [+4458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Indaptus Therapeutics",
+            "title": "Indaptus Therapeutics to Present Poster on Its Decoy Anti-Tumor Platform at the American Association for Cancer Research Conference 2023",
+            "description": "NEW YORK, March 15, 2023 (GLOBE NEWSWIRE) -- Indaptus Therapeutics, Inc. (Nasdaq: INDP, “Indaptus” or “the Company”), a biotechnology company focused on discovering and developing transformative therapeutics for patients, today announces that the American Ass…",
+            "url": "https://www.globenewswire.com/news-release/2023/03/15/2627614/0/en/Indaptus-Therapeutics-to-Present-Poster-on-Its-Decoy-Anti-Tumor-Platform-at-the-American-Association-for-Cancer-Research-Conference-2023.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/92abd56f-6fef-4376-9bd9-813febf90ecc",
+            "publishedAt": "2023-03-15T12:05:00Z",
+            "content": "NEW YORK, March 15, 2023 (GLOBE NEWSWIRE) -- Indaptus Therapeutics, Inc. (Nasdaq: INDP, Indaptus or the Company), a biotechnology company focused on discovering and developing transformative therapeu… [+7610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "AI Accelerator Groq™ Adapts and Runs LLaMA, the Meta™ Chatbot Model and Competitor to ChatGPT, for Its Systems",
+            "description": "MOUNTAIN VIEW, Calif., March 15, 2023 /PRNewswire/ -- Groq, a leading artificial intelligence (AI) and machine learning (ML) systems innovator, last week announced it adapted a new large language model (LLM), LLaMA–chatbot technology from Meta and a proposed …",
+            "url": "https://www.prnewswire.com/news-releases/ai-accelerator-groq-adapts-and-runs-llama-the-meta-chatbot-model-and-competitor-to-chatgpt-for-its-systems-301772554.html",
+            "urlToImage": "https://i1.ytimg.com/vi/dZ8eKFB_eBo/hqdefault.jpg",
+            "publishedAt": "2023-03-15T12:04:00Z",
+            "content": "MOUNTAIN VIEW, Calif., March 15, 2023 /PRNewswire/ -- Groq, a leading artificial intelligence (AI) and machine learning (ML) systems innovator, last week announced it adapted a new large language mod… [+3082 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cisco.com"
+            },
+            "author": "Mary Kate Schmermund",
+            "title": "The Site Reliability and Software Engineering Soft Skills That Matter Most",
+            "description": "Learn from hiring managers and fellow engineers at Cisco about the soft skills that are most valuable in the field and how to showcase them in an interview.",
+            "url": "https://blogs.cisco.com/security/the-site-reliability-and-software-engineering-soft-skills-that-matter-most",
+            "urlToImage": "https://storage.googleapis.com/blogs-images/ciscoblogs/1/2023/03/Screenshot-2023-03-14-at-12.02.55-PM.png",
+            "publishedAt": "2023-03-15T12:00:56Z",
+            "content": "We know that technical skills are essential for site reliability and software engineering positions. However, hiring managers take note when candidates display soft skills or qualities that are neces… [+10065 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kdnuggets.com"
+            },
+            "author": "Nahla Davies",
+            "title": "What Are The Downsides of AI Advancement?",
+            "description": "While AI has certainly several positive uses to offer the world, it’s also displaying harm when it comes to academics, cybersecurity, the environment, jobs, and privacy.",
+            "url": "https://www.kdnuggets.com/2023/03/downsides-ai-advancement.html",
+            "urlToImage": "https://www.kdnuggets.com/wp-content/uploads/davies_downsides_ai_advancement_5-scaled.jpg",
+            "publishedAt": "2023-03-15T12:00:51Z",
+            "content": "Image by pch.vector on Freepik\r\nThe technologies behind artificial intelligence and machine learning keep getting better. From the first AI checkers and chess programs written in 1951 at the Universi… [+8845 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityweek.com"
+            },
+            "author": "Kevin Townsend",
+            "title": "The Rise of the BISO in Contemporary Cybersecurity",
+            "description": "While the BISO might appear to be a new role, it is not – and understanding its past provides insights into its present.\nThe post The Rise of the BISO in Contemporary Cybersecurity appeared first on SecurityWeek.",
+            "url": "https://www.securityweek.com/the-rise-of-the-biso-in-contemporary-cybersecurity/",
+            "urlToImage": "https://www.securityweek.com/wp-content/uploads/2023/03/BISO_Information-Security.jpg",
+            "publishedAt": "2023-03-15T12:00:00Z",
+            "content": "Business Information Security Officers (BISOs) have become increasingly popular over the last few years. But what they are, what they do, and how they relate to the CISO is not so obvious in organiza… [+10965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "RANE Network Inc.",
+            "title": "RANE Launches New Cyber Intelligence Solution",
+            "description": "Unique, strategic cyber intelligence provides value across operating teams Unique, strategic cyber intelligence provides value across operating teams",
+            "url": "https://www.globenewswire.com/news-release/2023/03/15/2627608/0/en/RANE-Launches-New-Cyber-Intelligence-Solution.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/642fe7be-9bbd-48c7-a658-5c7e2c619a7b",
+            "publishedAt": "2023-03-15T12:00:00Z",
+            "content": "NEW YORK, March 15, 2023 (GLOBE NEWSWIRE) -- RANE (Risk Assistance Network + Exchange\r\n)\r\n today announced the launch of its Cyber Intelligence product, a cost-effective solution for global professio… [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barbero.tech"
+            },
+            "author": null,
+            "title": "New SLSA++ Survey Reveals Real-World Developer Approaches to Software Supply Chain Security",
+            "description": "Answering even basic questions about software supply chain security has been surprisingly hard. For instance, how widespread are the different practices associated with software supply chain security? And do software professionals view these practices as usef…",
+            "url": "https://mikael.barbero.tech/blog/post/2023-03-15-slsa-pp-survey/",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T12:00:00Z",
+            "content": "Answering even basic questions about software supply chain security has been surprisingly hard. For instance, how widespread are the different practices associated with software supply chain security… [+3874 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nist.gov"
+            },
+            "author": "Susana Barraza",
+            "title": "Save the Date for the NICE K12 Cybersecurity Education Conference",
+            "description": "Mark Your Calendars! Attend the NICE K12 Cybersecurity Education Conference in Phoenix, Arizona on December 4-5, 2023 -- the national conference for K12 cybersecurity educators! Gain tools to promote the discovery of cybersecurity careers and",
+            "url": "https://www.nist.gov/news-events/news/2023/03/save-date-nice-k12-cybersecurity-education-conference",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T12:00:00Z",
+            "content": "Mark Your Calendars!\r\nAttend the NICE K12 Cybersecurity Education Conference in Phoenix, Arizona on December 4-5, 2023 -- the national conference for K12 cybersecurity educators! Gain tools to promot… [+1123 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman",
+            "title": "AI-Generated Voice Deep Fakes Aren’t Scary Good—Yet",
+            "description": "The threat of scammers using voice deepfakes in their cons is real, but researchers say old-school voice-impersonation attacks are still the more pressing concern.",
+            "url": "https://www.wired.com/story/ai-voice-deep-fakes/",
+            "urlToImage": "https://media.wired.com/photos/6410c7c0642c588befb87cdf/191:100/w_1280,c_limit/w30_MARCH_AI-EMERG-TECH_DEEP-FAKE-VOICES.jpg",
+            "publishedAt": "2023-03-15T12:00:00Z",
+            "content": "Amid the generative-artificial-intelligencefrenzy of the last few months, security researchers have been revisiting the concern that AI-generated voices, or voice deepfakes, have gotten convincing en… [+4128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cisa.gov"
+            },
+            "author": "CISA",
+            "title": "Threat Actors Exploited Progress Telerik Vulnerability in U.S. Government IIS Server",
+            "description": "Today, the CISA, Federal Bureau of Investigation (FBI), and Multi-State Information Sharing and Analysis Center (MS-ISAC) released a joint Cybersecurity Advisory (CSA), Threat Actors Exploit Progress Telerik Vulnerability in U.S. Government IIS Server. This j…",
+            "url": "https://www.cisa.gov/news-events/alerts/2023/03/15/threat-actors-exploited-progress-telerik-vulnerability-us-government-iis-server",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T12:00:00Z",
+            "content": "Today, the CISA, Federal Bureau of Investigation (FBI), and Multi-State Information Sharing and Analysis Center (MS-ISAC) released a joint Cybersecurity Advisory (CSA), Threat Actors Exploit Progress… [+1335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Emil Sayegh, Contributor, \n Emil Sayegh, Contributor\n https://www.forbes.com/sites/emilsayegh/",
+            "title": "Teenagers Leveraging Insider Threats: Lapsus$ Hacker Group",
+            "description": "Of all the threatening hacker groups out there, one of the most notorious is the Lapsus$ gang.",
+            "url": "https://www.forbes.com/sites/emilsayegh/2023/03/15/teenagers-leveraging-insider-threats-lapsus-hacker-group/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6411afd494348c3bee9888c0/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-03-15T11:52:42Z",
+            "content": "Of all the threatening hacker groups out there, one of the most notorious is the Lapsus$ gang. ... [+] (Photo by Jakub Porzycki/NurPhoto via Getty Images)\r\nNurPhoto via Getty Images\r\nOf all the threa… [+4796 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Magnet Forensics Comments on Glass Lewis Report",
+            "description": "(marketscreener.com) \nReiterates ISS and Egan-Jones recommend a vote FOR the all-cash transaction\n\nVote the “WHITE” Management proxy no later than 2:00 pm on March 21, 2023.\nhttps://www.marketscreener.com/quote/stock/MAGNET-FORENSICS-INC-122186760/news/Magnet…",
+            "url": "https://www.marketscreener.com/quote/stock/MAGNET-FORENSICS-INC-122186760/news/Magnet-Forensics-Comments-on-Glass-Lewis-Report-43251066/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2023-03-15T11:49:02Z",
+            "content": "Magnet Forensics Inc. (the “Company” or “Magnet”) (TSX: MAGT), a developer of digital investigation solutions for enterprises and public safety organizations, commented on a report from proxy advisor… [+9556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizchina.com"
+            },
+            "author": "Abdullah",
+            "title": "These fake ChatGPT chrome extensions can steal your Facebook!",
+            "description": "The rise of artificial intelligence has brought numerous technological advancements, one of which is the development of chatbots. Chatbots are computer programs designed to mimic ...\nThe post These fake ChatGPT chrome extensions can steal your Facebook! appea…",
+            "url": "https://www.gizchina.com/2023/03/15/these-fake-chatgpt-chrome-extensions-can-steal-your-facebook/",
+            "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/03/ZWFHKXETLFG6NOPA4NJDXB43BE-1200x675.jpg",
+            "publishedAt": "2023-03-15T11:48:43Z",
+            "content": "The rise of artificial intelligence has brought numerous technological advancements, one of which is the development of chatbots. Chatbots are computer programs designed to mimic human conversation, … [+3816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Research and Markets",
+            "title": "Global Connected Devices Analytics Market Report 2023-2028: Increasing Focus on Remote Monitoring in Support of Work from Home Initiatives Drives Growth",
+            "description": "Dublin, March 15, 2023 (GLOBE NEWSWIRE) -- The \"Global Connected Devices Analytics Market (2023-2028) by Components, Device Connectivity, Deployment Mode, Applications, Industry, and Geography, Competitive Analysis, Impact of Covid-19, Impact of Economic Slow…",
+            "url": "https://www.globenewswire.com/news-release/2023/03/15/2627560/28124/en/Global-Connected-Devices-Analytics-Market-Report-2023-2028-Increasing-Focus-on-Remote-Monitoring-in-Support-of-Work-from-Home-Initiatives-Drives-Growth.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+            "publishedAt": "2023-03-15T11:48:00Z",
+            "content": "Dublin, March 15, 2023 (GLOBE NEWSWIRE) -- The \"Global Connected Devices Analytics Market (2023-2028) by Components, Device Connectivity, Deployment Mode, Applications, Industry, and Geography, Compe… [+7962 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Oatly : Press Release, dated March 15, 2023 (furnished herewith) - Form 6-K",
+            "description": "(marketscreener.com) \n \n Oatly Announces Financing Commitments of $425 Million\n \n \n Consists of Private Placement Agreements for $300 Million Convertible Notes and Entry into Commitment Letters for New $125 Million Term Loan B Credit Facility and Amended Sust…",
+            "url": "https://www.marketscreener.com/quote/stock/OATLY-GROUP-AB-122992133/news/Oatly-Press-Release-dated-March-15-2023-furnished-herewith-Form-6-K-43251005/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2023-03-15T11:40:24Z",
+            "content": "Oatly Announces Financing Commitments of $425 Million\r\nConsists of Private Placement Agreements for $300 Million Convertible Notes and Entry into Commitment Letters for New $125 Million Term Loan B C… [+11207 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Hari Ravichandran, Forbes Councils Member, \n Hari Ravichandran, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/hariravichandran/",
+            "title": "How AI Is Disrupting And Transforming The Cybersecurity Landscape",
+            "description": "All business leaders in today's digital world must be knowledgeable about the developments of AI in cybersecurity.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-ai-is-disrupting-and-transforming-the-cybersecurity-landscape/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6410748f5e5b9b953a7aa269/0x0.jpg?format=jpg&crop=4639,2608,x0,y0,safe&width=1200",
+            "publishedAt": "2023-03-15T11:30:00Z",
+            "content": "Hari Ravichandran is the CEO and Founder of Aura, a leading provider of comprehensive digital security solutions for consumers.\r\ngetty\r\nOne of the reasons for the rapid acceleration of cybercrime is … [+4537 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "AstuteAnalytica India Pvt. Ltd.",
+            "title": "Asia Pacific Automotive Cybersecurity Market to Exceed Market Valuation of US$ 5,606.8 Million by 2031: Astute Analytica",
+            "description": "Asia Pacific automotive cybersecurity market was valued at US$ 1,468.4 million in 2022 and is expected to reach a valuation of US$ 5,606.8 million by 2031, growing at a CAGR of 16.1% over the forecast period 2023-2031. Asia Pacific automotive cybersecurity ma…",
+            "url": "https://www.globenewswire.com/news-release/2023/03/15/2627529/0/en/Asia-Pacific-Automotive-Cybersecurity-Market-to-Exceed-Market-Valuation-of-US-5-606-8-Million-by-2031-Astute-Analytica.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+            "publishedAt": "2023-03-15T11:30:00Z",
+            "content": "New Delhi, March 15, 2023 (GLOBE NEWSWIRE) -- The demand for automotive cybersecurity market in the Asia Pacific region has been increasing rapidly in recent years. This is primarily due to the growi… [+10259 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "AstuteAnalytica India Pvt. Ltd.",
+            "title": "Asia Pacific Automotive Cybersecurity Market to Exceed Market Valuation of US$ 5,606.8 Million by 2031: Astute Analytica",
+            "description": "Asia Pacific automotive cybersecurity market was valued at US$ 1,468.4 million in 2022 and is expected to reach a valuation of US$ 5,606.8 million by 2031...",
+            "url": "https://finance.yahoo.com/news/asia-pacific-automotive-cybersecurity-market-113000959.html",
+            "urlToImage": "https://media.zenfs.com/en/globenewswire.com/c69505cf1983c21fb029b9444d820471",
+            "publishedAt": "2023-03-15T11:30:00Z",
+            "content": "AstuteAnalytica India Pvt. Ltd.\r\nAsia Pacific automotive cybersecurity market was valued at US$ 1,468.4 million in 2022 and is expected to reach a valuation of US$ 5,606.8 million by 2031, growing at… [+10811 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Oatly Reports Fourth Quarter and Full Year 2022 Financial Results",
+            "description": "(marketscreener.com) Fiscal Year 2023 Outlook Calls for Accelerated Growth and Improved Margins Company Receives Financing Commitments of $425 Million MALMÖ, Sweden, March 15, 2023 -- Oatly Group AB , the world’s original and largest oat drink company, today …",
+            "url": "https://www.marketscreener.com/quote/stock/OATLY-GROUP-AB-122992133/news/Oatly-Reports-Fourth-Quarter-and-Full-Year-2022-Financial-Results-43250751/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdgris.png",
+            "publishedAt": "2023-03-15T11:29:01Z",
+            "content": "Fiscal Year 2023 Outlook Calls for Accelerated Growth and Improved Margins\r\nCompany Receives Financing Commitments of $425 Million\r\nMALMÖ, Sweden, March 15, 2023 (GLOBE NEWSWIRE) -- Oatly Group AB (N… [+65968 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Oatly Reports Fourth Quarter and Full Year 2022 Financial Results",
+            "description": "(marketscreener.com) \n Fiscal Year 2023 Outlook Calls for Accelerated Growth and Improved Margins Company Receives Financing Commitments of $425 Million MALMÖ, Sweden, March 15, 2023 -- Oatly Group AB , the world’s original and largest oat drink company, toda…",
+            "url": "https://www.marketscreener.com/quote/stock/OATLY-GROUP-AB-122992133/news/Oatly-Reports-Fourth-Quarter-and-Full-Year-2022-Financial-Results-43250752/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2023-03-15T11:29:01Z",
+            "content": "Fiscal Year 2023 Outlook Calls for Accelerated Growth and Improved Margins\r\nCompany Receives Financing Commitments of $425 Million\r\nMALMÖ, Sweden, March 15, 2023 (GLOBE NEWSWIRE) -- Oatly Group AB (N… [+66052 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Oatly AB",
+            "title": "Oatly Reports Fourth Quarter and Full Year 2022 Financial Results",
+            "description": "Fiscal Year 2023 Outlook Calls for Accelerated Growth and Improved Margins Company Receives Financing Commitments of $425 Million MALMÖ, Sweden, March 15...",
+            "url": "https://finance.yahoo.com/news/oatly-reports-fourth-quarter-full-112800210.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/poj63hq11wb46buy.sCqaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0zOTg-/https://media.zenfs.com/en/globenewswire.com/78b508f2e30a16796fcbba64b4a17951",
+            "publishedAt": "2023-03-15T11:28:00Z",
+            "content": "Fiscal Year 2023 Outlook Calls for Accelerated Growth and Improved Margins\r\nCompany Receives Financing Commitments of $425 Million\r\nMALMÖ, Sweden, March 15, 2023 (GLOBE NEWSWIRE) -- Oatly Group AB (N… [+65754 chars]"
+        }
+    ]
+}

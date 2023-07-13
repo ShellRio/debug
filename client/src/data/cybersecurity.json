@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 6520,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "CISA adds Adobe ColdFusion bug to Known Exploited Vulnerabilities Catalog",
+            "description": "US CISA added an actively exploited vulnerability in Adobe ColdFusion to its Known Exploited Vulnerabilities Catalog. U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical vulnerability in Adobe ColdFusion, tracked as CVE-2023-2636…",
+            "url": "https://securityaffairs.com/143553/security/adobe-coldfusion-known-exploited-vulnerabilities-catalog.html",
+            "urlToImage": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg?resize=300%2C300&ssl=1",
+            "publishedAt": "2023-03-16T08:47:40Z",
+            "content": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical vulnerability in Adobe ColdFusion, tracked as CVE-2023-26360 (CVSS score: 8.6), to its Known Exploited Vulnerabilitie… [+1487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globalsecurity.org"
+            },
+            "author": "John Pike",
+            "title": "Amendment grants Myanmar junta sweeping new powers under Anti-Terrorism Law",
+            "description": "Myanmar's junta has expanded its ability to target those who seek its removal from power by sharpening the teeth of law that it's already used to jail hundreds of people since seizing power in a coup d'etat two years ago.",
+            "url": "https://www.globalsecurity.org/wmd/library/news/myanmar/2023/myanmar-230315-rfa01.htm",
+            "urlToImage": null,
+            "publishedAt": "2023-03-16T08:39:15Z",
+            "content": "Observers say the provisions violate rights and are intended to end support for the opposition.\r\nBy RFA Burmese 2023.03.15 -- Myanmar's junta has expanded its ability to target those who seek its rem… [+5316 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GreenBiz"
+            },
+            "author": null,
+            "title": "Why sustainability must play a major role in your boardroom today — and tomorrow",
+            "description": "We need to shape the boardrooms of the future by choice, not by chance.",
+            "url": "https://www.greenbiz.com/article/why-sustainability-must-play-major-role-your-boardroom-today-and-tomorrow",
+            "urlToImage": "https://www.greenbiz.com/sites/default/files/styles/og_image_1200x630/public/2023-03/Leadership_EtiAmmos_Shutterstock.jpg?itok=qEPNMw6W",
+            "publishedAt": "2023-03-16T08:30:00Z",
+            "content": "Sometimes, if you are like me, it is hard to look at the news or social media in the morning. The war in Ukraine, climate change, the tridemic, disappearing biodiversity, a worldwide cost of living c… [+7270 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComputerWeekly.com"
+            },
+            "author": "Alex Scroxton",
+            "title": "Rubrik customer, partner data exposed in possible Clop attack",
+            "description": "Rubrik was supposedly compromised by the Clop ransomware gang via a zero-day vulnerability in a managed file transfer software package it uses",
+            "url": "https://www.computerweekly.com/news/365532643/Rubrik-customer-partner-data-exposed-in-possible-Clop-attack",
+            "urlToImage": "https://cdn.ttgtmedia.com/visuals/German/article/data-leak-breach-2-adobe.jpg",
+            "publishedAt": "2023-03-16T08:30:00Z",
+            "content": "Rubrik, a supplier of cloud data management and security services, has disclosed a data breach, possibly attributable to the Clop (aka Cl0p) ransomware operation, arising through a previously reporte… [+3419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Insurance Journal"
+            },
+            "author": "Admin",
+            "title": "Australia’s Latitude Group and IPH Hit by Cyber Attacks, Continuing Wave of Hacks",
+            "description": "Digital payments firm Latitude Group Holdings and intellectual property services provider IPH Ltd. reported data breaches on Thursday, joining a host of other Australian firms targeted by hackers in recent months. Some of Australia’s largest companies have re…",
+            "url": "https://www.insurancejournal.com/news/international/2023/03/16/712502.htm",
+            "urlToImage": "https://www.insurancejournal.com/app/uploads/2022/11/concept-of-cyber-attack-and-hacker-458973053-bigstock-scaled.jpg",
+            "publishedAt": "2023-03-16T08:25:12Z",
+            "content": "Digital payments firm Latitude Group Holdings and intellectual property services provider IPH Ltd. reported data breaches on Thursday, joining a host of other Australian firms targeted by hackers in … [+2112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vnexpress.net"
+            },
+            "author": "VnExpress",
+            "title": "US charges Vietnamese national with crypto money laundering",
+            "description": "A Vietnamese national has been charged by the U.S. Justice Department with money laundering and identity theft involving a cryptocurrency platform, the department announced Wednesday.",
+            "url": "https://e.vnexpress.net/news/news/us-charges-vietnamese-national-with-crypto-money-laundering-4582083.html",
+            "urlToImage": "https://vcdn-english.vnecdn.net/2023/03/16/425fhj3uybnrhok6kfohntlgri-167-3480-9070-1678953038.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=xmLqF1o1mJdsYjT28Fl_wA",
+            "publishedAt": "2023-03-16T08:08:46Z",
+            "content": "International authorities have cracked down on the cryptocurrency platform ChipMixer, alleging it helped obscure the digital money trail for online drug dealers, Russian military hackers and North Ko… [+2389 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "U-blox AG: u-blox and GMV Join Forces to Deliver Cutting-Edge Safe Positioning Solutions for Automotive Applications",
+            "description": "(marketscreener.com) \n\n\n\n\nu-blox AG\n\n\n / Key word: Partnership\n\n\n\n\n\nu-blox AG: u-blox and GMV Join Forces to Deliver Cutting-Edge Safe Positioning Solutions for Automotive Applications \n\n\n\n\n\n\n16.03.2023 / 09:00 CET/CEST\n\nu-blox and GMV Join Forces to Deliver …",
+            "url": "https://www.marketscreener.com/quote/stock/U-BLOX-HOLDING-AG-366917/news/U-blox-AG-u-blox-and-GMV-Join-Forces-to-Deliver-Cutting-Edge-Safe-Positioning-Solutions-for-Automo-43258601/?utm_medium=RSS&utm_content=20230316",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2023-03-16T08:02:02Z",
+            "content": "u-blox AG\r\n/ Key word(s): Partnership\r\nu-blox AG: u-blox and GMV Join Forces to Deliver Cutting-Edge Safe Positioning Solutions for Automotive Applications u-blox and GMV Join Forces to Deliver Cutti… [+3284 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet France"
+            },
+            "author": "Eileen Yu",
+            "title": "Tête de linotte ! Si vous oubliez vos mots de passe, pensez biométrie !",
+            "description": "En moyenne, vous réinitialisez un mot de passe au moins une fois par mois parce que vous ne vous en souvenez pas. Reste que la communication de vos données personnelles pour accéder à des produits et services vous semble... inévitable.",
+            "url": "https://www.zdnet.fr/actualites/tete-de-linotte-si-vous-oubliez-vos-mots-de-passe-pensez-biometrie-39955538.htm",
+            "urlToImage": "https://www.zdnet.com/a/img/2023/03/15/342f6f77-2435-4db6-abf7-f248f56861aa/gettyimages-1125581628.jpg",
+            "publishedAt": "2023-03-16T07:45:00Z",
+            "content": "Plus de la moitié des utilisateurs ont dû réinitialiser leur mot de passe au moins une fois par mois parce qu'ils avaient du mal à s'en souvenir. Et seuls 6 % d'entre eux qualifient cette forme d'aut… [+4725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dataversity.net"
+            },
+            "author": "Michelle Knight",
+            "title": "Blockchain Technology Demystified",
+            "description": "Prepare for blockchain technology to play a significant role in business, society, and almost everything. While 45% of CIOs said their organizations had yet to invest in blockchain between 2016 to 2021, that will change as information exchange becomes decentr…",
+            "url": "https://www.dataversity.net/blockchain-101-next-database-management-evolution/",
+            "urlToImage": "https://d3an9kf42ylj3p.cloudfront.net/uploads/2018/03/mk_blockchain_031418.png",
+            "publishedAt": "2023-03-16T07:35:00Z",
+            "content": "Prepare for blockchain technology to play a significant role in business, society, and almost everything. While 45% of CIOs said their organizations had yet to invest in blockchain between 2016 to 20… [+8664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globalsecurity.org"
+            },
+            "author": "John Pike",
+            "title": "Space Force Focuses on Partnerships, Spirit, Combat Readiness",
+            "description": "The U.S. Space Force's $30 billion budget request for Fiscal Year 2024 is about $3.9 billion over what was enacted for the service in FY2023. More than 60% of the Space Force budget, about $19.2 billion worth, is aimed at research, development, testing and ev…",
+            "url": "https://www.globalsecurity.org/space/library/news/2023/space-230315-dodnews01.htm",
+            "urlToImage": null,
+            "publishedAt": "2023-03-16T07:14:57Z",
+            "content": "March 15, 2023\r\nBy C. Todd Lopez , DOD News \r\nThe U.S. Space Force's $30 billion budget request for Fiscal Year 2024 is about $3.9 billion over what was enacted for the service in FY2023. More than 6… [+5478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "The Hacker News",
+            "title": "What's Wrong with Manufacturing?",
+            "description": "In last year's edition of the Security Navigator we noted that the Manufacturing Industry appeared to be totally over-represented in our dataset of Cyber Extortion victims. Neither the number of businesses nor their average revenue particularly stood out to e…",
+            "url": "https://thehackernews.com/2023/03/whats-wrong-with-manufacturing.html",
+            "urlToImage": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEhSkAPCyLS5eRFeCDZ2d8aN_D0LuZ6iExaGaA3q5fbbWHsUk2sjzz06OpIzgSMPmrkcPSbtvealnJb9vFMneScx2P7mYcI_GKlOhksY43SGe-DFMF2DELVDFg4ZOrgmpjKYhdBjtE19Gp-Jix-vjbbpRj-KnNVHKlM_CMnVKieAfMUpVxO-kqu5h5Tt/s728-e3650/Featured.jpg",
+            "publishedAt": "2023-03-16T07:12:00Z",
+            "content": "In last year's edition of the Security Navigator we noted that the Manufacturing Industry appeared to be totally over-represented in our dataset of Cyber Extortion victims. Neither the number of busi… [+8868 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "IANS",
+            "title": "Russian hacker group Phoenix hit Indian Health Ministry website: CloudSEK",
+            "description": "\"The motive behind this target was the sanctions imposed against Russian Federation where Indian authorities decided not to violate the sanctions as well as comply with the price ceiling for Russia\"",
+            "url": "https://www.business-standard.com/article/current-affairs/russian-hacker-group-phoenix-hit-indian-health-ministry-website-cloudsek-123031600398_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/31/full/1635699773-4742.jpg",
+            "publishedAt": "2023-03-16T07:08:16Z",
+            "content": "Cyber-security researchers from CloudSEK have claimed that a Russian hacker group targeted the Indian Health Ministry website and infiltrated its Health Management Information System (HMIS).\r\nThe pro… [+2508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Emerce.nl"
+            },
+            "author": "Conscia",
+            "title": "Toename cloud-first strategie vergroot belang van effectief disaster recovery plan",
+            "description": "De toenemende cloud-first benadering zorgt ervoor dat het herstellen van data na een cyberaanval een grotere uitdaging vormt voor veel […]",
+            "url": "https://www.emerce.nl/wire/toename-cloudfirst-strategie-vergroot-belang-effectief-disaster-recovery-plan",
+            "urlToImage": "https://www.emerce.nl/content/uploads/2023/03/MaartenWerff-Conscia-1-scaled.jpg",
+            "publishedAt": "2023-03-16T07:01:39Z",
+            "content": "De toenemende cloud-first benadering zorgt ervoor dat het herstellen van data na een cyberaanval een grotere uitdaging vormt voor veel bedrijven. De hoeveelheden data die bedrijven beheren nemen toe … [+4673 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "PARROT: 2022 FULL-YEAR EARNINGS",
+            "description": "(marketscreener.com)         PRESS RELEASE        March 16, 2023, 8:00am CET 2022 FULL-YEAR EARNINGS 64% growth like-for-like and at constant exchange rates €68.5m of net cash at end-2022 Growth to continue in 2023 The Parrot group, a European leader for prof…",
+            "url": "https://www.marketscreener.com/quote/stock/PARROT-17496/news/PARROT-2022-FULL-YEAR-EARNINGS-43258012/?utm_medium=RSS&utm_content=20230316",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2023-03-16T07:01:02Z",
+            "content": "PRESS RELEASE        March 16, 2023, 8:00am CET\r\n2022 FULL-YEAR EARNINGS\r\n64% growth like-for-like and at constant exchange rates(1)\r\n€68.5m of net cash at end-2022\r\nGrowth to continue in 2023\r\nThe P… [+29105 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "PARROT: 2022 FULL-YEAR EARNINGS",
+            "description": "(marketscreener.com) \n         PRESS RELEASE        March 16, 2023, 8:00am CET 2022 FULL-YEAR EARNINGS 64% growth like-for-like and at constant exchange rates €68.5m of net cash at end-2022 Growth to continue in 2023 The Parrot group, a European leader for pr…",
+            "url": "https://www.marketscreener.com/quote/stock/PARROT-17496/news/PARROT-2022-FULL-YEAR-EARNINGS-43258013/?utm_medium=RSS&utm_content=20230316",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2023-03-16T07:01:02Z",
+            "content": "PRESS RELEASE        March 16, 2023, 8:00am CET\r\n2022 FULL-YEAR EARNINGS\r\n64% growth like-for-like and at constant exchange rates(1)\r\n€68.5m of net cash at end-2022\r\nGrowth to continue in 2023\r\nThe P… [+29105 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "SSH launches new version of Tectia to provide Quantum-Safe communications for US federal government",
+            "description": "(marketscreener.com) Helsinki, Finland - March 16, 2022 - The US federal government has shown significant interest in Quantum-Safe communications during 2022, most evidently through Quantum Cybersecurity Preparedness Act, which mandates all electronic communi…",
+            "url": "https://www.marketscreener.com/quote/stock/SSH-COMMUNICATIONS-SECURI-1412540/news/SSH-launches-new-version-of-Tectia-to-provide-Quantum-Safe-communications-for-US-federal-government-43258006/?utm_medium=RSS&utm_content=20230316",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2023-03-16T07:01:01Z",
+            "content": "Helsinki, Finland - March 16, 2022 - The US federal government has shown significant interest in Quantum-Safe communications during 2022, most evidently through Quantum Cybersecurity Preparedness Act… [+2467 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "John Feng",
+            "title": "China's Spy Balloon Masks Espionage Iceberg in U.S.",
+            "description": "The Chinese high-altitude balloon shot down off the East Coast of the United States was a mere \"afterthought\" for Beijing, one analyst told Newsweek.",
+            "url": "https://www.newsweek.com/china-spy-surveillance-us-balloon-cyber-hack-tech-1787510",
+            "urlToImage": "https://d.newsweek.com/en/full/2206440/chinas-increasingly-adept-spycraft-us.jpg",
+            "publishedAt": "2023-03-16T07:00:01Z",
+            "content": "<ul><li>The downing of a Chinese spy balloon has led to heightened scrutiny of espionage efforts under Xi Jinping.</li><li>Not as widely noted has been China's expansion of traditional surveillance c… [+12230 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "PARROT",
+            "title": "PARROT: 2022 FULL-YEAR EARNINGS",
+            "description": "PRESS RELEASE        March 16, 2023, 8:00am CET  2022 FULL-YEAR EARNINGS  64% growth like-for-like and at constant exchange rates(1)  €68.5m of...",
+            "url": "https://www.globenewswire.com/news-release/2023/03/16/2628325/0/en/PARROT-2022-FULL-YEAR-EARNINGS.html",
+            "urlToImage": null,
+            "publishedAt": "2023-03-16T07:00:00Z",
+            "content": "PRESS RELEASE        March 16, 2023, 8:00am CET\r\n2022 FULL-YEAR EARNINGS\r\n64% growth like-for-like and at constant exchange rates(1)\r\n68.5m of net cash at end-2022\r\nGrowth to continue in 2023\r\nThe Pa… [+29027 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "SSH Communications Security Oyj",
+            "title": "PRESS RELEASE: SSH launches new version of Tectia to provide Quantum-Safe communications for US federal government",
+            "description": "Helsinki, Finland - March 16, 2022 - The US federal government has shown significant interest in Quantum-Safe communications during 2022, most evidently through Quantum Cybersecurity Preparedness Act, which mandates all electronic communications to be Quantum…",
+            "url": "https://www.globenewswire.com/news-release/2023/03/16/2628318/0/en/PRESS-RELEASE-SSH-launches-new-version-of-Tectia-to-provide-Quantum-Safe-communications-for-US-federal-government.html",
+            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/6496a64e-49a5-4fb0-8b2a-aae3ce923374",
+            "publishedAt": "2023-03-16T07:00:00Z",
+            "content": "Helsinki, Finland - March 16, 2022 - The US federal government has shown significant interest in Quantum-Safe communications during 2022, most evidently through Quantum Cybersecurity Preparedness Act… [+2462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "SSH Communications Security Oyj",
+            "title": "LEHDISTÖTIEDOTE: SSH lanseeraa uuden Tectia-version, joka tarjoaa kvanttiturvallista viestintää Yhdysvaltain liittovaltion hallitukselle",
+            "description": "Helsinki, Suomi - 16. maaliskuuta 2022 - Yhdysvaltain liittovaltion hallitus on osoittanut merkittävää kiinnostusta kvanttitietokoneita kestävää salausta kohtaan vuoden 2022 aikana, muun muassa säätämällä Quantum Cybersecurity Preparedness Act –lain. Tässä la…",
+            "url": "https://www.globenewswire.com/news-release/2023/03/16/2628318/0/fi/LEHDIST%C3%96TIEDOTE-SSH-lanseeraa-uuden-Tectia-version-joka-tarjoaa-kvanttiturvallista-viestint%C3%A4%C3%A4-Yhdysvaltain-liittovaltion-hallitukselle.html",
+            "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/6496a64e-49a5-4fb0-8b2a-aae3ce923374",
+            "publishedAt": "2023-03-16T07:00:00Z",
+            "content": "Helsinki, Suomi - 16. maaliskuuta 2022 - Yhdysvaltain liittovaltion hallitus on osoittanut merkittävää kiinnostusta kvanttitietokoneita kestävää salausta kohtaan vuoden 2022 aikana, muun muassa säätä… [+3027 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "therecord.media",
+            "title": "CISA: US agency breached by cybercriminals, gov’t hackers",
+            "description": "Cybercriminals and a government-backed hacking group had access to the systems of an unnamed federal civilian executive branch agency from August 2022 to January 2023. In a report released Wednesday by the Cybersecurity and Infrastructure Security Agency (CIS…",
+            "url": "https://biztoc.com/x/ebb3691dd424fdc5",
+            "urlToImage": "https://c.biztoc.com/p/ebb3691dd424fdc5/og.webp",
+            "publishedAt": "2023-03-16T06:50:06Z",
+            "content": "Cybercriminals and a government-backed hacking group had access to the systems of an unnamed federal civilian executive branch agency from August 2022 to January 2023.In a report released Wednesday b… [+287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Csoonline.com"
+            },
+            "author": "avenkat@idg.com",
+            "title": "Russian hacktivist group targets India’s health ministry",
+            "description": "A Russian hacktivist group has claimed to have breached the health management information system of India, which could contain health data of millions of Indian citizens.\r\n“On 15 March 2023, CloudSek’s contextual AI digital risk platform XVigil discovered a t…",
+            "url": "https://www.csoonline.com/article/3691050/russian-hacktivist-group-targets-indias-health-ministry.html",
+            "urlToImage": "https://images.idgesg.net/images/article/2022/03/south-asia-from-space-night-india_shutterstock_1840428529-100922023-large.jpg?auto=webp&quality=85,70",
+            "publishedAt": "2023-03-16T06:47:00Z",
+            "content": "A Russian hacktivist group has claimed to have breached the health management information system of India, which could contain health data of millions of Indian citizens.\r\nOn 15 March 2023, CloudSeks… [+4204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Market Research Future",
+            "title": "Proactive Security Market To Hit USD 87.2 Billion at a 15.80% CAGR by 2030 - Report by Market Research Future (MRFR)",
+            "description": "The rise in the adoption of proactive security services among SMEs and large enterprises and growing adoption of cloud-based security solutions are the key drivers for the growth of the proactive security market in Asia-Pacific. The rise in the adoption of pr…",
+            "url": "https://www.globenewswire.com/news-release/2023/03/16/2628313/0/en/Proactive-Security-Market-To-Hit-USD-87-2-Billion-at-a-15-80-CAGR-by-2030-Report-by-Market-Research-Future-MRFR.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/3e9f3ceb-4861-46da-9c98-64c87256444d",
+            "publishedAt": "2023-03-16T06:45:00Z",
+            "content": "New York, US, March 16, 2023 (GLOBE NEWSWIRE) -- According to a comprehensive research report by Market Research Future (MRFR), Global Proactive Security Market\r\n By Component, Services, Organization… [+8570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "Ravie Lakshmanan",
+            "title": "Multiple Hacker Groups Exploit 3-Year-Old Vulnerability to Breach U.S. Federal Agency",
+            "description": "Multiple threat actors, including a nation-state group, exploited a critical three-year-old security flaw in Progress Telerik to break into an unnamed federal entity in the U.S.\nThe disclosure comes from a joint advisory issued by the Cybersecurity and Infras…",
+            "url": "https://thehackernews.com/2023/03/multiple-hacker-groups-exploit-3-year.html",
+            "urlToImage": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEitNpFZ-FwCLnE7wwqvAOi4PyjoaRJ-Soa_w01roGQa-eaSzW5BQiT1c4LSlmx5ikxEyb8Qm8WX8h5rdLlu_DfGU-HSH4oaEyP5ZPYybWyhrmfd8zdzYilp4sKiCs_bnPNbrWchF9X7a8Fa0pVLrRSTt6NnQxAPzGh-Tm0V1HnAudhCzMfxVVmsNSXs/s728-e3650/united.jpg",
+            "publishedAt": "2023-03-16T06:34:00Z",
+            "content": "Multiple threat actors, including a nation-state group, exploited a critical three-year-old security flaw in Progress Telerik to break into an unnamed federal entity in the U.S.\r\nThe disclosure comes… [+2780 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PR Newswire UK"
+            },
+            "author": null,
+            "title": "Seadrill Limited - Information regarding 2022 Annual General Meeting",
+            "description": "HAMILTON, Bermuda, March 16, 2023 /PRNewswire/ -- Reference is made to the notice of the 2022 Annual General Meeting of Seadrill Limited (NYSE: SDRL) (OSE: SDRL) (\"Seadrill\" or the \"Company\") to be held on March 21, 2023. Following constructive discussions wi…",
+            "url": "https://www.prnewswire.co.uk/news-releases/seadrill-limited--information-regarding-2022-annual-general-meeting-301773840.html",
+            "urlToImage": null,
+            "publishedAt": "2023-03-16T06:23:00Z",
+            "content": "HAMILTON, Bermuda, March 16, 2023 /PRNewswire/ -- Reference is made to the notice of the 2022 Annual General Meeting of Seadrill Limited (NYSE: SDRL) (OSE: SDRL) (\"Seadrill\" or the \"Company\") to be h… [+5461 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "PR Newswire",
+            "title": "Seadrill Limited - Information regarding 2022 Annual General Meeting",
+            "description": "Reference is made to the notice of the 2022 Annual General Meeting of Seadrill Limited (NYSE: SDRL) (OSE: SDRL) (\"Seadrill\" or the \"Company\") to be held on...",
+            "url": "https://finance.yahoo.com/news/seadrill-limited-information-regarding-2022-062300622.html",
+            "urlToImage": "https://media.zenfs.com/en/prnewswire.com/65c8545f1f72d3f9caf25d7434eaa5f1",
+            "publishedAt": "2023-03-16T06:23:00Z",
+            "content": "HAMILTON, Bermuda, March 16, 2023 /PRNewswire/ -- Reference is made to the notice of the 2022 Annual General Meeting of Seadrill Limited (NYSE: SDRL) (OSE: SDRL) (\"Seadrill\" or the \"Company\") to be h… [+5584 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Seadrill Limited - Information regarding 2022 Annual General Meeting",
+            "description": "HAMILTON, Bermuda, March 16, 2023 /PRNewswire/ -- Reference is made to the notice of the 2022 Annual General Meeting of Seadrill Limited (NYSE: SDRL) (OSE: SDRL) (\"Seadrill\" or the \"Company\") to be held on March 21, 2023. Following constructive discussions wi…",
+            "url": "https://www.prnewswire.com/news-releases/seadrill-limited--information-regarding-2022-annual-general-meeting-301773840.html",
+            "urlToImage": null,
+            "publishedAt": "2023-03-16T06:23:00Z",
+            "content": "HAMILTON, Bermuda, March 16, 2023 /PRNewswire/ -- Reference is made to the notice of the 2022 Annual General Meeting of Seadrill Limited (NYSE: SDRL) (OSE: SDRL) (\"Seadrill\" or the \"Company\") to be h… [+5440 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Seadrill Limited - Information regarding 2022 Annual General Meeting",
+            "description": "HAMILTON, Bermuda, March 16, 2023 /PRNewswire/ -- Reference is made to the notice of the 2022 Annual General Meeting of Seadrill Limited (NYSE: SDRL) (OSE: SDRL) (\"Seadrill\" or the \"Company\") to be held on March 21, 2023. Following constructive discussions wi…",
+            "url": "https://www.prnewswire.com/news-releases/seadrill-limited--information-regarding-2022-annual-general-meeting-301773837.html",
+            "urlToImage": null,
+            "publishedAt": "2023-03-16T06:20:00Z",
+            "content": "HAMILTON, Bermuda, March 16, 2023 /PRNewswire/ -- Reference is made to the notice of the 2022 Annual General Meeting of Seadrill Limited (NYSE: SDRL) (OSE: SDRL) (\"Seadrill\" or the \"Company\") to be h… [+5439 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Reuters",
+            "title": "Russian Hackers Preparing to Launch New Wave of Cyberattacks Against Ukraine: Microsoft Report",
+            "description": "Microsoft on Wednesday warned that Russian hackers could be preparing a renewed wave of cyberattacks against Ukraine, including a \"ransomware-style\" threat that could target the organisations associated with the country's supply lines. The Redmond company sai…",
+            "url": "https://www.gadgets360.com/internet/news/ukraine-cyberattacks-russian-hackers-ransomware-supply-lines-microsoft-report-3865508",
+            "urlToImage": "https://i.gadgets360cdn.com/large/hacking_reuters_full_1559645243937.JPG",
+            "publishedAt": "2023-03-16T06:05:42Z",
+            "content": "Russian hackers appear to be preparing a renewed wave of cyberattacks against Ukraine, including a \"ransomware-style\" threat to organizations serving Ukraine's supply lines, a research report by Micr… [+2679 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Help Net Security",
+            "title": "Cyber attribution: Vigilance or distraction?",
+            "description": "Cyber attribution is a process by which security analysts collect evidence, build timelines and attempt to piece together evidence in the wake of a cyberattack to identify the responsible organization/individuals. Cyber threat attribution stems from the core …",
+            "url": "https://www.helpnetsecurity.com/2023/03/16/cyber-attribution-vigilance-or-distraction/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2019/08/09093630/identity_theft2.jpg",
+            "publishedAt": "2023-03-16T06:00:58Z",
+            "content": "Cyber attribution is a process by which security analysts collect evidence, build timelines and attempt to piece together evidence in the wake of a cyberattack to identify the responsible organizatio… [+5990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Scott Shackelford, Professor of Business Law and Ethics, Indiana University, Kerry Krutilla, Professor of Environmental and Energy Policy, Indiana University, Christiana Ochoa, Professor of Law, Indiana University, and David Bosco, Associate Professor of International Studies, Indiana University",
+            "title": "Deep seabed mining plans pit renewable energy demand against ocean life in a largely unexplored frontier",
+            "description": "As companies race to expand renewable energy and the batteries to store it, finding sufficient amounts of rare earth metals to build the technology is no...",
+            "url": "https://news.yahoo.com/plans-deep-seabed-mining-pit-133255969.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5IGOOmBJqoTqIZRK_Q4isA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/the_conversation_us_articles_815/8d07465025c46720747dda5678b5a076",
+            "publishedAt": "2023-03-16T05:34:28Z",
+            "content": "As companies race to expand renewable energy and the batteries to store it, finding sufficient amounts of rare earth metals to build the technology is no easy feat. Thats leading mining companies to … [+10257 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Kanika Saxena",
+            "title": "Russian hacker group Phoenix targets health ministry systems",
+            "description": "Access to the personnel directory and chief physicians of every Indian hospital is likely to have been jeopardised. This raises the prospect of exfiltration of licence documents and personally identifiable information being sold on cybercrime forums on the da…",
+            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/russian-hacker-group-phoenix-targets-health-ministry-systems/articleshow/98683592.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-98683708,width-1070,height-580,imgsize-99158,overlay-economictimes/photo.jpg",
+            "publishedAt": "2023-03-16T05:05:03Z",
+            "content": "Cybersecurity company CloudSEKs AI digital-risk platform XVigil on Wednesday detected a Russian-origin threat-actor group that claimed to have targeted the Indian health ministrys health-management i… [+2464 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Frederic Lardinois",
+            "title": "IT-as-a-Service startup Deeploi raises €3M",
+            "description": "Deeploi, which is building an IT-as-a-Service platform, today announced that it has raised a €3 million seed funding round.",
+            "url": "https://techcrunch.com/2023/03/15/it-as-a-service-startup-deeploi-raises-e3m/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/deeploi_PR_final.jpg?resize=1200,800",
+            "publishedAt": "2023-03-16T05:00:54Z",
+            "content": "Deeploi, a Germany-based startup that is building an IT-as-a-Service platform, today announced that it has raised a 3 million seed funding round led by Berlin’s Cherry Ventures, with participation fr… [+2626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AllAfrica - Top Africa News"
+            },
+            "author": null,
+            "title": "Nigeria: Cyberattacks On Nigeria's Cyberspace Skyrocketed On Presidential Election Day - Govt",
+            "description": "[This Day] The federal government has revealed an astronomical increase in cyber threats to Nigerian cyberspace.",
+            "url": "https://allafrica.com/stories/202303160050.html",
+            "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+            "publishedAt": "2023-03-16T05:00:43Z",
+            "content": "The federal government has revealed an astronomical increase in cyber threats to Nigerian cyberspace.\r\nAccording to the federal government's threat intelligence report, generally threats to public we… [+3432 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Computerworld.com.pt"
+            },
+            "author": "Computerworld",
+            "title": "Autoridades EUA ameaçam Microsoft",
+            "description": "O governo dos EUA, preocupado com o papel crescente das nações rivais nos ciberataques e na cibercriminalidade, parece estar pronto a forçar as empresas tecnológicas a fazer mais em matéria de segurança.",
+            "url": "https://www.computerworld.com.pt/2023/03/16/autoridades-eua-ameacam-microsoft/",
+            "urlToImage": "https://static.computerworld.com.pt/media/2023/03/microsoft-cloud.png",
+            "publishedAt": "2023-03-16T05:00:27Z",
+            "content": "O governo dos EUA, preocupado com o papel crescente das nações rivais nos ciberataques e na cibercriminalidade, parece estar pronto a forçar as empresas tecnológicas a fazer mais em matéria de segura… [+7166 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Naomi O’Leary",
+            "title": "Europe Letter: Jingles fall silent as Brussels bans TikTok",
+            "description": "Several European governments are either restricting the app for civil servants or ordering security assessments",
+            "url": "https://www.irishtimes.com/world/europe/2023/03/16/europe-letter-jingles-fall-silent-as-brussels-bans-tiktok/",
+            "urlToImage": "https://www.irishtimes.com/resizer/BM_FS2RM4lZ6uO-IkHN5g98Qxn8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/IML2KZDFKAPCVDYQBPDFC3XBI4.jpg",
+            "publishedAt": "2023-03-16T05:00:00Z",
+            "content": "The jingles have fallen silent; the dance crazes are no more. At least in the Berlaymont, the viral spread of the Chinese-owned video-sharing app TikTok has been halted.\r\nOn Wednesday, the deadline p… [+4775 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Riya Tandon",
+            "title": "Mass layoffs and job choices: What’s in store for freshers",
+            "description": "The article discusses how job opportunities have increased and decreased in the years following the pandemic. It goes on to say that, in the year 2022, there was an exuberance around finding new job opportunities, but that last year, many globally renowned te…",
+            "url": "https://economictimes.indiatimes.com/jobs/fresher/mass-layoffs-and-job-choices-whats-in-store-for-freshers/articleshow/98683469.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-98683507,width-1070,height-580,imgsize-26250,overlay-economictimes/photo.jpg",
+            "publishedAt": "2023-03-16T04:52:26Z",
+            "content": "Remember how everyone was shocked to encounter a plethora of job opportunities that started surfacing during the first two years of the pandemic? There was a newfound exuberance around us. Everyone w… [+7733 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "Ravie Lakshmanan",
+            "title": "CISA Issues Urgent Warning: Adobe ColdFusion Vulnerability Exploited in the Wild",
+            "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on March 15 added a security vulnerability impacting Adobe ColdFusion to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe critical flaw in questio…",
+            "url": "https://thehackernews.com/2023/03/cisa-issues-urgent-warning-adobe.html",
+            "urlToImage": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEjg8T1EAux0KjF2qw7H0gjPvv33p8vffhuoidvlZzQAXU8bJN3Nq5k5bM0kcjuLxKZop93NztZC75oLL4gBZQ0esCjwHeIfb7ItaCyRCe-DegY_7roFlj_V-9jA86hVciMrc8cTkPflp9xUYKw04ig9pO6BNhbFWAf5hCt6clL2R4eWcm80nFGB9SsD/s728-e3650/alert.png",
+            "publishedAt": "2023-03-16T04:47:00Z",
+            "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on March 15 added a security vulnerability impacting Adobe ColdFusion to its Known Exploited Vulnerabilities (KEV) catalog, based on e… [+1399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Sectigo",
+            "title": "Sectigo ist Diamond-Sponsor des CloudFest 2023",
+            "description": "Führungskräfte von Sectigo und SiteLock erklären, wie moderne Unternehmen digitales Vertrauen in einer digitalen Cloud- und Hybrid-Cloud-Umgebung aufbauen können Führungskräfte von Sectigo und SiteLock erklären, wie moderne Unternehmen digitales Vertrauen in …",
+            "url": "https://www.globenewswire.com/news-release/2023/03/16/2628296/0/de/Sectigo-ist-Diamond-Sponsor-des-CloudFest-2023.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/03374b82-0ed6-4c94-930a-54fad18d0048",
+            "publishedAt": "2023-03-16T04:42:00Z",
+            "content": "ROSELAND, N.J., March 16, 2023 (GLOBE NEWSWIRE) -- Sectigo®, ein weltweit führendes Unternehmen von automatisiertem Certificate Lifecycle Management (CLM) und digitalen Zertifikaten, gab heute bekann… [+5375 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Reuters",
+            "title": "TikTok's Chinese ownership, security concerns spark bans across nations",
+            "description": "TikTok is owned by China-based ByteDance, the world's most valuable start-up. Numerous countries have raised concerns over its proximity to the Chinese government and hold over user data across the world.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/tiktoks-chinese-ownership-security-concerns-spark-bans-across-nations/articleshow/98682804.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-98682899,width-1070,height-580,imgsize-31986,overlay-ettech/photo.jpg",
+            "publishedAt": "2023-03-16T04:21:04Z",
+            "content": "The Joe Biden administration has demanded that TikTok's Chinese owners divest their stakes in the popular video app or face a possible US ban, the company told Reuters on Wednesday.The move follows t… [+2683 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BeInCrypto"
+            },
+            "author": "Víctor Zapata",
+            "title": "El presidente de la SEC sugiere nuevamente que los tokens PoS son securities",
+            "description": "El presidente de la Comisión de Bolsa y Valores (SEC) de Estados Unidos, Gary Gensler, ha manifestado que los activos digitales y tokens que provengan de redes cuyo funcionamiento se base en Proof-of-Stake (PoS), podrían calificar sin problemas como security,…",
+            "url": "https://es.beincrypto.com/presidente-sec-sugiere-nuevamente-tokens-pos-securities/",
+            "urlToImage": "https://s32679.pcdn.co/wp-content/uploads/2022/09/BIC_data-privacy_security-1.jpg.webp",
+            "publishedAt": "2023-03-16T04:13:35Z",
+            "content": "El presidente de la Comisión de Bolsa y Valores (SEC) de Estados Unidos, Gary Gensler, ha manifestado que los activos digitales y tokens que provengan de redes cuyo funcionamiento se base en Proof-of… [+3698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "Factbox-TikTok's Chinese ownership, security concerns spark bans across nations",
+            "description": "Factbox-TikTok's Chinese ownership, security concerns spark bans across nations",
+            "url": "https://www.investing.com/news/stock-market-news/factboxtiktoks-chinese-ownership-security-concerns-spark-bans-across-nations-3031793",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_L.jpg",
+            "publishedAt": "2023-03-16T04:05:47Z",
+            "content": "(Reuters) - The Biden administration has demanded that TikTok's Chinese owners divest their stakes in the popular video app or face a possible U.S. ban, the company told Reuters on Wednesday.\r\nThe mo… [+2610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Factbox-TikTok's Chinese ownership, security concerns spark bans across nations",
+            "description": "(marketscreener.com) The Biden administration has demanded that TikTok's Chinese owners divest their stakes in the popular video app or face a possible U.S. ban, the company told Reuters on Wednesday.https://www.marketscreener.com/quote/index/MSCI-TAIWAN-STRD…",
+            "url": "https://www.marketscreener.com/quote/index/MSCI-TAIWAN-STRD-107361484/news/Factbox-TikTok-s-Chinese-ownership-security-concerns-spark-bans-across-nations-43257370/?utm_medium=RSS&utm_content=20230316",
+            "urlToImage": "https://img.zonebourse.com/reuters/2020-09/2020-09-16T014739Z_1_LYNXMPEG8F02O_RTROPTP_3_USA-TIKTOK.JPG",
+            "publishedAt": "2023-03-16T04:04:24Z",
+            "content": "The move follows the introduction of a new U.S. legislation that would allow the White House to ban TikTok or other foreign-based technologies if they pose a national security risk.\r\nOther countries … [+2562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VOA News"
+            },
+            "author": "webdesk@voanews.com (VOA News)",
+            "title": "Latest Developments in Ukraine: March 16",
+            "description": "For full coverage of the crisis in Ukraine, visit Flashpoint Ukraine.\n\n\nThe latest developments in Russia's war on Ukraine. All times EDT.\n\n\n12:01 a.m.: A pro-Russian prankster impersonates a former US ambassador to Moscow in live video calls, part of a disin…",
+            "url": "https://www.voanews.com/a/latest-developments-in-ukraine-march-16/7007590.html",
+            "urlToImage": "https://gdb.voanews.com/CD01FE06-67A6-4756-BD35-9B7F8C225655.jpg",
+            "publishedAt": "2023-03-16T04:01:45Z",
+            "content": "For full coverage of the crisis in Ukraine, visit Flashpoint Ukraine.\r\nThe latest developments in Russia's war on Ukraine. All times EDT.\r\n12:01 a.m.: A pro-Russian prankster impersonates a former US… [+923 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Columbia.edu"
+            },
+            "author": "Gary Gensler",
+            "title": "SEC Chair Gensler on Recent Bank Failures, Enhanced Cybersecurity for Market Entities",
+            "description": "Good morning. This is an open meeting of the U.S. Securities and Exchange Commission on March 15th, 2023. I want to welcome members of the public who are listening in.\r\n\nBefore we get to today’s agenda, I want to address the events of the last week in the con…",
+            "url": "https://clsbluesky.law.columbia.edu/2023/03/16/sec-chair-gensler-on-recent-bank-failures-enhanced-cybersecurity-for-market-entities/",
+            "urlToImage": null,
+            "publishedAt": "2023-03-16T04:01:29Z",
+            "content": "Good morning. This is an open meeting of the U.S. Securities and Exchange Commission on March 15th, 2023. I want to welcome members of the public who are listening in.\r\nBefore we get to todays agenda… [+6930 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Should you be worried about the Latitude hack? This is what we know so far",
+            "description": "Digital financial services company Latitude says the personal information of almost 330,000 customers has been stolen, including drivers' licences. This is what we know about the company, what happened and whether you should be worried.",
+            "url": "https://www.abc.net.au/news/2023-03-16/latitude-financial-hack-what-we-know/102105266",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ed9b707c42c4dde1352a420db7472c38?impolicy=wcms_crop_resize&cropH=1407&cropW=2500&xPos=0&yPos=0&width=862&height=485",
+            "publishedAt": "2023-03-16T04:00:24Z",
+            "content": "Latitude Financial has become the latest major Australian company to be hit by a cyber attack, announcing that personal data of almost 330,00 customers had been stolen.\r\nThe hack follows those of Med… [+4306 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MediaNama.com"
+            },
+            "author": "Medianama",
+            "title": "MediaNama Daily: The Perfect Pitch Session?",
+            "description": "Right to Information queries, Fintech regulations, OpenAI's latest GPT-4 AI model, Meta's second round of layoffs, and more\nThe post MediaNama Daily: The Perfect Pitch Session? appeared first on MediaNama.",
+            "url": "https://www.medianama.com/2023/03/223-medianama-daily-perfect-pitch-session/",
+            "urlToImage": "https://www.medianama.com/wp-content/uploads/2023/03/8A74A390-46E5-4940-8D00-A7F0B1DAEC56-scaled.jpeg",
+            "publishedAt": "2023-03-16T03:30:37Z",
+            "content": "If Theres One Story To Read Today\r\nFor most startups, the online discussion with Indias IT Minister Rajeev Chandrasekhar was to air their concerns about the Silicon Valley Bank crisis and seek govern… [+7409 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Omer Farooq",
+            "title": "14 Best Falling Stocks To Buy Now",
+            "description": "In this article, we will look at the 14 best falling stocks to buy now. If you want to explore similar stocks, you can also take a look at 5 Best Falling...",
+            "url": "https://finance.yahoo.com/news/14-best-falling-stocks-buy-032714753.html",
+            "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/fe25e8b2ea6512ae48ec312ea037ed79",
+            "publishedAt": "2023-03-16T03:27:14Z",
+            "content": "In this article, we will look at the 14 best falling stocks to buy now. If you want to explore similar stocks, you can also take a look at 5 Best Falling Stocks To Buy Now.\r\nThe next FOMC meeting is … [+20040 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jeanny Yu",
+            "title": "Investors Reward PDD for Winning Crown in China Online Price War",
+            "description": "(Bloomberg) -- Budget shopping app Pinduoduo has emerged as a clear winner in an intensifying price war in China as e-commerce companies fight for market...",
+            "url": "https://finance.yahoo.com/news/investors-reward-pdd-winning-crown-031413089.html",
+            "urlToImage": "https://media.zenfs.com/en/bloomberg_technology_68/88690d5df767566fb3251529b1fb4d7a",
+            "publishedAt": "2023-03-16T03:14:13Z",
+            "content": "(Bloomberg) -- Budget shopping app Pinduoduo has emerged as a clear winner in an intensifying price war in China as e-commerce companies fight for market share amid a pullback in consumer spending.\r\n… [+4658 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fast Company"
+            },
+            "author": "Mark Sullivan",
+            "title": "Why breakthrough tech founders need more true grit than ever",
+            "description": "With interest rates up and VC money tightening, entrepreneurs working on breakthrough technologies may have to be tougher and more disciplined than ever.\n\n\n\nThat was a key takeaway from a recent panel at the Fast Company Grill at SXSW. The panel, titled “Brea…",
+            "url": "https://www.fastcompany.com/90866038/why-breakthrough-tech-founders-need-more-true-grit-than-ever?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+            "urlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2023/03/p-1-xsw-panel-breakthrough-tech-founders-need-more-true-grit-than-ever.jpg",
+            "publishedAt": "2023-03-16T03:00:00Z",
+            "content": "With interest rates up and VC money tightening, entrepreneurs working on breakthrough technologies may have to be tougher and more disciplined than ever. \r\nThat was a key takeaway from a recent panel… [+5062 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vmware.com"
+            },
+            "author": "Cile Montgomery",
+            "title": "VMware Workspace ONE Mobile Threat Defense wins gold, VMware wins 11 awards at the 2023 Cybersecurity Excellence Awards",
+            "description": "The 2023 Cybersecurity Excellence Awards winners have been announced, and our phishing and mobile threat protection solution, VMware Workspace ONE Mobile Threat Defense, received the highest recognition: the Gold Award.   With more than 900 entries in more th…",
+            "url": "https://blogs.vmware.com/euc/2023/03/vmware-workspace-one-mobile-threat-defense-wins-gold-at-the-2023-cybersecurity-excellence-awards.html",
+            "urlToImage": "https://blogs.vmware.com/euc/files/2022/12/Announcements_01.png",
+            "publishedAt": "2023-03-16T02:55:26Z",
+            "content": "The 2023 Cybersecurity Excellence Awards winners have been announced, and our phishing and mobile threat protection solution, VMware Workspace ONE Mobile Threat Defense, received the highest recognit… [+3432 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Global News"
+            },
+            "author": "Sean Boynton",
+            "title": "Microsoft vulnerability can strike before users open ‘malicious’ email: CSE centre - National | Globalnews.ca",
+            "description": "The alert sent out Wednesday says the advisory from Microsoft was one of \"several critical vulnerabilities\" published by the company the day before.",
+            "url": "https://globalnews.ca/news/9555604/microsoft-outlook-vulnerability-warning-cse/",
+            "urlToImage": "https://globalnews.ca/wp-content/uploads/2023/03/CP122366939-e1678933543711.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2023-03-16T02:55:03Z",
+            "content": "The Canadian Centre for Cyber Security is warning about a significant vulnerability impacting Microsoft email users that allows threat actors to steal victims’ identities.\r\nThe alert sent out Wednesd… [+1743 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "Reuters",
+            "title": "Australia Inc roiled by raft of cyberattacks since late 2022",
+            "description": "(marketscreener.com) Australian firms have suffered a\nflood of cyberattacks, putting the spotlight on country's\nunderstaffed cybersecurity industry which experts say seems\nill-equipped to tackle such hacks, thus endangering sensitive\ninformation of millions o…",
+            "url": "https://www.marketscreener.com/news/latest/Australia-Inc-roiled-by-raft-of-cyberattacks-since-late-2022--43257266/?utm_medium=RSS&utm_content=20230316",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_ZB_fdnoir.png",
+            "publishedAt": "2023-03-16T02:49:37Z",
+            "content": "March 16 (Reuters) - Australian firms have suffered a\r\nflood of cyberattacks, putting the spotlight on country's\r\nunderstaffed cybersecurity industry which experts say seems\r\nill-equipped to tackle s… [+3313 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vietnamplus.vn"
+            },
+            "author": "VNA",
+            "title": "ASEAN, Norway reaffirm commitment for stronger cooperation",
+            "description": "ASEAN and Norway reaffirmed their commitment to further strengthen cooperation under the ASEAN-Norway Sectoral Dialogue Partnership at the 8th Meeting of the ASEAN-Norway Joint Sectoral Cooperation Committee held at the ASEAN Secretariat on March 14.",
+            "url": "https://en.vietnamplus.vn/asean-norway-reaffirm-commitment-for-stronger-cooperation/249941.vnp",
+            "urlToImage": null,
+            "publishedAt": "2023-03-16T02:47:00Z",
+            "content": "Jakarta (VNA) ASEAN and Norway reaffirmed their commitment to\r\nfurther strengthen cooperation under the ASEAN-Norway Sectoral Dialogue\r\nPartnership at the 8th Meeting of the ASEAN-Norway Joint Sector… [+2333 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sputnik International"
+            },
+            "author": "Sputnik International",
+            "title": "US Downs Vietnamese Darknet Cryptocurrency Service for Laundering Over $3 Billion- Justice Dept.",
+            "description": "WASHINGTON (Sputnik) – The US government downed a Vietnamese company, which it described as a darknet cryptocurrency “mixing” service, for laundering more than $3 billion worth of cryptocurrency, and processing bitcoin allegedly used by the Russian General St…",
+            "url": "https://sputniknews.com/20230316/us-downs-vietnamese-darknet-cryptocurrency-service-for-laundering-over-3-billion--justice-dept-1108439290.html",
+            "urlToImage": "https://cdnn1.img.sputniknews.com/images/sharing/article/eng/1108439290.jpg?10905693811678933775",
+            "publishedAt": "2023-03-16T02:30:49Z",
+            "content": "Get the latest news from around the world, live coverage, off-beat stories, features and analysis.\r\nhttps://sputniknews.com/20230316/us-downs-vietnamese-darknet-cryptocurrency-service-for-laundering-… [+6707 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "VIPRE's Endpoint Security Cloud Recognized for its Enterprise-Level Capabilities by AV-Comparatives",
+            "description": "VIPRE's cloud-based security product named an \"Approved Enterprise & Business Security\" solution by one of the globe's leading independent security testing organizations. NEW YORK, March 15, 2023 /PRNewswire/ -- VIPRE Security Group, an industry-leader and aw…",
+            "url": "https://www.prnewswire.com/news-releases/vipres-endpoint-security-cloud-recognized-for-its-enterprise-level-capabilities-by-av-comparatives-301773637.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2034112/VIPRE_Security_Group_1.jpg?p=facebook",
+            "publishedAt": "2023-03-16T02:30:00Z",
+            "content": "VIPRE's cloud-based security product named an \"Approved Enterprise &amp; Business Security\" solution by one of the globe's leading independent security testing organizations.\r\nNEW YORK, March 15, 202… [+4615 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Josephine Harvey",
+            "title": "Biden Administration Demands TikTok's Owners Sell Or Face Nationwide Ban",
+            "description": "The move is a major escalation amid national security concerns about the popular Chinese-owned social media app.",
+            "url": "https://www.huffpost.com/entry/biden-tiktok-sell-or-ban_n_64126eafe4b0cfde25c2c4cd",
+            "urlToImage": "https://img.huffingtonpost.com/asset/64126f122500005e006b4c97.jpeg?cache=srIHlhWeB9&ops=1200_630",
+            "publishedAt": "2023-03-16T02:23:07Z",
+            "content": "The Biden administration is reportedly demanding that TikTok be sold by its Chinese owners or risk facing a ban across the U.S.\r\nThe move is an escalation in federal officials efforts to address nati… [+1075 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Punch"
+            },
+            "author": "Temitayo Jaiyeola",
+            "title": "Experts fault minister on 13million cyberattacks during polls",
+            "description": "Cybersecurity experts have stated that the Federal Government’s claim that 12.99 million cyberattacks were recorded during the elections is impossible. According to them, the government needs to explain its claim and allow experts to investigate its systems. …",
+            "url": "https://punchng.com/experts-fault-minister-on-13million-cyberattacks-during-polls/",
+            "urlToImage": "https://cdn.punchng.com/2021/04/Isa-Pantami5.jpg",
+            "publishedAt": "2023-03-16T02:10:03Z",
+            "content": "Cybersecurity experts have stated that the Federal Governments claim that 12.99 million cyberattacks were recorded during the elections is impossible.\r\nAccording to them, the government needs to expl… [+2025 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitploit.com"
+            },
+            "author": "noreply@blogger.com (Unknown)",
+            "title": "Kali Linux 2023.1 - Penetration Testing and Ethical Hacking Linux Distribution",
+            "description": "Time for another Kali Linux release! – Kali Linux 2023.1. This release has various impressive updates.he changelog summary since the 2022.4 release from December:\r\n<ul><li>Kali Purple - The dawn of a new era. Kali is not only Offense, but starting to be defen…",
+            "url": "https://www.kitploit.com/2023/03/kali-linux-20231-penetration-testing.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmYhOMjpsu7hngVFcQBa-2pDOwYYGMpNzXeRgSF72yscBBtZmUzg4NzARWxOeG5UMmAb4qQDxo_xNzoFzrwuknQ_Nw0yf9G8ZB9HlfBdHqtQX-DChEQ2NgtorWqBZysROB3UZg4TM9lTkOSmRLBeqweGSnpz3_pAEk0Zd8akbXTbfLLn497UyM5GgVvw/w640-h334/kali-2023.1-release.jpg",
+            "publishedAt": "2023-03-16T01:45:00Z",
+            "content": "KitPloit - leading source of Security Tools, Hacking Tools, CyberSecurity and Network Security ☣"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "International Business Times"
+            },
+            "author": "Anuj CHOPRA",
+            "title": "Russia Calling? Scammers Target High-level Western Officials",
+            "description": "Russia calling? Scammers target high-level Western officials",
+            "url": "https://www.ibtimes.com/russia-calling-scammers-target-high-level-western-officials-3677416",
+            "urlToImage": "https://d.ibtimes.com/en/full/4432936/image-alexei-stolyarov-lexus-l-impersonating-leonid-volkov-next-picture-real-volkov-r.jpg",
+            "publishedAt": "2023-03-16T01:42:32Z",
+            "content": "An image of Alexei Stolyarov or Lexus (L) impersonating Leonid Volkov next to a picture of the real Volkov (R) for comparisonAFP\r\nA pro-Russian prankster impersonates a former US ambassador to Moscow… [+4732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FRANCE 24 English"
+            },
+            "author": "FRANCE24",
+            "title": "Russia calling? Scammers target high-level Western officials",
+            "description": "Russian comedy duo Vladimir Kuznetsov and Alexei Stolyarov, who go by Vovan and Lexus, have long been notorious for pranking politicians and celebrities around the world, from Justin Trudeau to Elton John and Boris Johnson.\n\nBut the pair, once dubbed Russia's…",
+            "url": "https://www.france24.com/en/live-news/20230316-russia-calling-scammers-target-high-level-western-officials",
+            "urlToImage": "https://s.france24.com/media/display/83875394-c39b-11ed-ac4e-005056a90321/w:1280/p:16x9/0c716da1e987e8cb8ab25db6e293e49656ac8b3b.jpg",
+            "publishedAt": "2023-03-16T01:40:22Z",
+            "content": "Washington (AFP) A pro-Russian prankster impersonates a former US ambassador to Moscow in live video calls, part of a disinformation campaign that researchers say seeks to ensnare high-level Western … [+4621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vietnamplus.vn"
+            },
+            "author": "VNA",
+            "title": "Revenue from cybersecurity sector up 33% in Q1",
+            "description": "The Ministry of Information and Communications (MIC) recently reported positive results for the cybersecurity sector in the first quarter of 2023.",
+            "url": "https://en.vietnamplus.vn/revenue-from-cybersecurity-sector-up-33-in-q1/249932.vnp",
+            "urlToImage": null,
+            "publishedAt": "2023-03-16T01:38:00Z",
+            "content": "Hanoi (VNS/VNA) - The Ministry of Information and Communications\r\n(MIC) recently reported positive results for the cybersecurity sector in the\r\nfirst quarter of 2023.Specifically, the sector posted r… [+1214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Duncan Riley",
+            "title": "Study finds humans beat ChatGPT when creating phishing attacks",
+            "description": "Cybersecurity training services company Hoxhunt Ltd. today released the findings of a new study into the effectiveness of ChatGPT-generated phishing attacks and while the technology continues to improve, humans were found to deliver better results. The study …",
+            "url": "https://siliconangle.com/2023/03/15/study-finds-humans-beat-chatgpt-creating-phishing-attacks/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/hoxhunt.png",
+            "publishedAt": "2023-03-16T01:33:50Z",
+            "content": "Cybersecurity training services company Hoxhunt Ltd. today released the findings of a new study into the effectiveness of ChatGPT-generated phishing attacks and while the technology continues to impr… [+3508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool Australia"
+            },
+            "author": "Monica O'Shea",
+            "title": "ASX 200 stock IPH sinks 12% following cyber attack update",
+            "description": "The intellectual property services provider is investigating a cyber attack. \nThe post ASX 200 stock IPH sinks 12% following cyber attack update appeared first on The Motley Fool Australia.",
+            "url": "https://www.fool.com.au/2023/03/16/asx-200-stock-iph-sinks-12-following-cyber-attack-update/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2016/09/Computer-hacker-stealing-data-from-a-laptop.jpg",
+            "publishedAt": "2023-03-16T01:04:39Z",
+            "content": "ASX 200 stock IPH Ltd (ASX: IPH) is tumbling today amid an update on the company’s latest cybersecurity attack. \r\nShares in the intellectual property services provider are sinking 11.92% at the time … [+2071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Cointelegraph",
+            "title": "Gensler suggests staking token operators should ‘seek to come into compliance’",
+            "description": "Gensler suggests staking token operators should ‘seek to come into compliance’",
+            "url": "https://www.investing.com/news/cryptocurrency-news/gensler-suggests-staking-token-operators-should-seek-to-come-into-compliance-3031750",
+            "urlToImage": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1556528163.jpg",
+            "publishedAt": "2023-03-16T00:40:07Z",
+            "content": "United States Securities and Exchange Commission Chair Gary Gensler has again suggested that proof-of-stake coins may be securities. He expressed his view on March 15 after a commission meeting on cy… [+352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HackRead"
+            },
+            "author": "Deeba Ahmed",
+            "title": "Two US Citizens Charged for Hacking into DEA Portal in 2022",
+            "description": "By Deeba Ahmed\nBoth suspects, Sagar Steven Singh and Nicholas Ceraolo, were reportedly members of a notorious cybercrime group, ViLE. Two…\nThis is a post from HackRead.com Read the original post: Two US Citizens Charged for Hacking into DEA Portal in 2022",
+            "url": "https://www.hackread.com/us-citizens-charged-hacking-dea/",
+            "urlToImage": "https://www.hackread.com/wp-content/uploads/2023/03/two-us-citizens-charged-for-hacking-into-dea-portal-in-2022.jpg",
+            "publishedAt": "2023-03-16T00:26:57Z",
+            "content": "Two US citizens have been charged with hacking into the US DEA online portal using fake emergency data requests from hijacked government and police email accounts. Their primary objective was to blac… [+3210 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "PR Newswire",
+            "title": "Global AI Training Dataset Market Report 2023: Rapid Development of AI and Learning Machines Drives Demand",
+            "description": "The \"Global AI Training Dataset Market Size, Market Share, Application Analysis, Regional Outlook, Growth Trends, Key Players, Competitive Strategies and...",
+            "url": "https://finance.yahoo.com/news/global-ai-training-dataset-market-001500023.html",
+            "urlToImage": "https://media.zenfs.com/en/prnewswire.com/e75ef6f3096d7cb6f5dd43ba82eca2fe",
+            "publishedAt": "2023-03-16T00:15:00Z",
+            "content": "DUBLIN, March 15, 2023 /PRNewswire/ -- The \"Global AI Training Dataset Market Size, Market Share, Application Analysis, Regional Outlook, Growth Trends, Key Players, Competitive Strategies and Foreca… [+11313 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Global AI Training Dataset Market Report 2023: Rapid Development of AI and Learning Machines Drives Demand",
+            "description": "DUBLIN, March 15, 2023 /PRNewswire/ -- The \"Global AI Training Dataset Market Size, Market Share, Application Analysis, Regional Outlook, Growth Trends, Key Players, Competitive Strategies and Forecasts; 2023 to 2031\" report has been added to ResearchAndMarke…",
+            "url": "https://www.prnewswire.com/news-releases/global-ai-training-dataset-market-report-2023-rapid-development-of-ai-and-learning-machines-drives-demand-301773302.html",
+            "urlToImage": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+            "publishedAt": "2023-03-16T00:15:00Z",
+            "content": "DUBLIN, March 15, 2023 /PRNewswire/ -- The \"Global AI Training Dataset Market Size, Market Share, Application Analysis, Regional Outlook, Growth Trends, Key Players, Competitive Strategies and Foreca… [+11072 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Trendmicro.com"
+            },
+            "author": null,
+            "title": "3 Ways to Evolve Your Cybersecurity Operations",
+            "description": "To meet the expectations of today’s digital enterprises, cybersecurity operations need to modernize in three key ways: by optimizing extended detection and response (XDR), adopting proactive cyber risk management, and moving to a unified security platform.",
+            "url": "https://www.trendmicro.com/en_us/ciso/23/c/cybersecurity-operations.html",
+            "urlToImage": "https://www.trendmicro.com/content/dam/trendmicro/global/en/ciso/thumbnails/23/cybersecurity-operations.png",
+            "publishedAt": "2023-03-16T00:00:00Z",
+            "content": "What SOC teams need most are better ways to correlate and prioritize alerts so they can isolate the ones that truly matter while getting in front of threats instead of reacting to them. They also nee… [+3561 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Podcastubuntuportugal.org"
+            },
+            "author": null,
+            "title": "Podcast Ubuntu Portugal: E238 Chapéus Há Muitos",
+            "description": "Neste episódio em que temos os três anfitriões de volta: o Miguel compra artigos de roupa, o Tiago está infiltrado a preparar a revolução, mas teve que lidar com problemas de WiFi, o Diogo descobriu mais Software Livre de game dev e game design, e tivemos ain…",
+            "url": "https://podcastubuntuportugal.org/e238/",
+            "urlToImage": "https://podcastubuntuportugal.org/images/e238.png",
+            "publishedAt": "2023-03-16T00:00:00Z",
+            "content": "Your browser does not support the audio element.\r\n0.75 x\r\n1 x\r\n1.25 x\r\n1.5 x\r\n1.75 x\r\n2 x\r\nNeste episódio em que temos os três anfitriões de volta: o Miguel compra artigos de roupa, o Tiago está infi… [+1548 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Derek Andersen",
+            "title": "Gensler sugiere que los operadores de tokens de staking deberían \"tratar de cumplir con las normativas\"",
+            "description": "El jefe de la SEC estaba hablando improvisadamente con los periodistas después de una reunión de la comisión cuando se le preguntó sobre una declaración hecha por el presidente de la CFTC.\n \nEl presidente de la Comisión de Bolsa y Valores (SEC) de Estados Uni…",
+            "url": "https://es.cointelegraph.com/news/gensler-suggests-staking-token-operators-should-seek-to-come-into-compliance",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-03/6d6efc04-7f49-49c6-b93c-57b9fa428e5f.jpg",
+            "publishedAt": "2023-03-15T23:30:00Z",
+            "content": "El presidente de la Comisión de Bolsa y Valores (SEC) de Estados Unidos, Gary Gensler, ha vuelto a sugerir que las monedas proof-of-stake pueden ser valores. Expresó su opinión el 15 de marzo tras un… [+3278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Signal"
+            },
+            "author": "Fred Lucas",
+            "title": "Gov. Ron DeSantis’ Voter Fraud Office Nets 2 More Arrests",
+            "description": "Florida continues a crackdown on election-related crime, announcing the arrests of two more individuals Wednesday on charges of casting illegal votes in last year’s election. ... Read More\nThe post Gov. Ron DeSantis’ Voter Fraud Office Nets 2 More Arrests app…",
+            "url": "https://www.dailysignal.com/2023/03/15/gov-ron-desantis-voter-fraud-office-nets-2-more-arrests/",
+            "urlToImage": "https://first-heritage-foundation.s3.amazonaws.com/live_files/2023/03/FloridaVoterFraud-scaled.jpg",
+            "publishedAt": "2023-03-15T23:20:58Z",
+            "content": "Florida continues a crackdown on election-related crime, announcing the arrests of two more individuals Wednesday on charges of casting illegal votes in last years election. \r\nThe Florida Office of E… [+5141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "cointelegraph.com",
+            "title": "Gensler suggests staking token operators should 'seek to come into compliance’",
+            "description": "United States Securities and Exchange Commission (SEC) chair Gary Gensler has again suggested that proof-of-stake coins may be securities. He expressed his view on March 15 after a commission meeting on cybersecurity issues. Gensler was asked by reporters abo…",
+            "url": "https://biztoc.com/x/9acfa6c34030b3fa",
+            "urlToImage": "https://c.biztoc.com/p/9acfa6c34030b3fa/og.webp",
+            "publishedAt": "2023-03-15T23:04:12Z",
+            "content": "United States Securities and Exchange Commission (SEC) chair Gary Gensler has again suggested that proof-of-stake coins may be securities. He expressed his view on March 15 after a commission meeting… [+282 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Jessica Lyons Hardcastle",
+            "title": "Hands up who DIDN'T exploit this years-old flaw to ransack a US govt web server...",
+            "description": "Why patching matters: Everyone seemingly had a crack at security bug\nMultiple criminals, including at least potentially one nation-state group, broke into a US federal government agency's Microsoft Internet Information Services web server by exploiting a crit…",
+            "url": "https://www.theregister.com/2023/03/15/cisa_us_microsoft_hacked/",
+            "urlToImage": "https://regmedia.co.uk/2023/03/15/usa_shutterstock.jpg",
+            "publishedAt": "2023-03-15T23:00:10Z",
+            "content": "Multiple criminals, including at least potentially one nation-state group, broke into a US federal government agency's Microsoft Internet Information Services web server by exploiting a critical thre… [+2916 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Cointelegraph By Derek Andersen",
+            "title": "Gensler suggests staking token operators should 'seek to come into compliance’",
+            "description": "Chairman of the U.S. Securities and Exchange Commission Gary Gensler made another statement on how he sees proof-of-stake cryptocurrencies.",
+            "url": "https://cointelegraph.com/news/gensler-suggests-staking-token-operators-should-seek-to-come-into-compliance",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-03/6d6efc04-7f49-49c6-b93c-57b9fa428e5f.jpg",
+            "publishedAt": "2023-03-15T22:55:57Z",
+            "content": "United States Securities and Exchange Commission (SEC) chair Gary Gensler has again suggested that proof-of-stake coins may be securities. He expressed his view on March 15 after a commission meeting… [+2179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Activistpost.com"
+            },
+            "author": "Activist Post",
+            "title": "Non-Profit Watchdog Group Says FCC Officials Should Be Investigated for Owning Stock in Companies They’re Supposed to Regulate",
+            "description": "By B.N. Frank The Federal Communications Commission (FCC) is supposed to protect Americans from the telecom industry.  Unfortunately, it has a long history of not...\nNon-Profit Watchdog Group Says FCC Officials Should Be Investigated for Owning Stock in Compa…",
+            "url": "https://www.activistpost.com/2023/03/non-profit-watchdog-group-says-fcc-officials-should-be-investigated-for-owning-stock-in-companies-theyre-supposed-to-regulate.html",
+            "urlToImage": "https://www.activistpost.com/wp-content/uploads/2020/09/political-money-pixabay-1024x620-1-1024x620-1.jpg",
+            "publishedAt": "2023-03-15T22:55:42Z",
+            "content": "By B.N. Frank\r\nThe Federal Communications Commission (FCC) is supposed to protect Americans from the telecom industry.  Unfortunately, it has a long history of not doing, hence being labelled a captu… [+9072 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "bleepingcomputer.com",
+            "title": "ChatGPT may be a bigger cybersecurity risk than an actual benefit",
+            "description": "ChatGPT made a splash with its user-friendly interface and believable AI-generated responses. With a single prompt, ChatGPT provided detailed answers that other AI assistants had not achieved. Powered by a massive dataset that ChatGPT had been trained on, the…",
+            "url": "https://biztoc.com/x/91840d17bc9bcce0",
+            "urlToImage": "https://c.biztoc.com/p/91840d17bc9bcce0/og.webp",
+            "publishedAt": "2023-03-15T22:42:24Z",
+            "content": "ChatGPT made a splash with its user-friendly interface and believable AI-generated responses. With a single prompt, ChatGPT provided detailed answers that other AI assistants had not achieved. Powere… [+324 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "How Meraki Co-Founders Hit The Jackpot Again With Samsara",
+            "description": "After hitting it big with Meraki, Sanjit Biswas and John Bicket cofounded Samsara. IOT stock now has a market valuation over $10 billion.",
+            "url": "https://www.investors.com/research/the-new-america/iot-stock-samsara-stock-telematics-internet-of-things/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2023/03/NEWAM_samsara1_031723_newswire.jpg",
+            "publishedAt": "2023-03-15T22:35:05Z",
+            "content": "Silicon Valley wouldn't be the technology hub it is today without serial entrepreneurs like Sanjit Biswas and John Bicket. After hitting it big with Meraki, they cofounded Samsara (IOT), and now its … [+6169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "IP firm IPH is latest Australian company to suffer data breach",
+            "description": ":IPH Ltd, an intellectual property (IP) services provider, on Thursday reported a data breach in a portion of its IT systems, becoming the latest Australian company to be targeted by hackers and sending its shares tumbling 12 per cent.IPH said that on Monday …",
+            "url": "https://www.channelnewsasia.com/business/ip-firm-iph-latest-australian-company-suffer-data-breach-3350536",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z",
+            "publishedAt": "2023-03-15T22:33:59Z",
+            "content": ":IPH Ltd, an intellectual property (IP) services provider, on Thursday reported a data breach in a portion of its IT systems, becoming the latest Australian company to be targeted by hackers and send… [+1354 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smartdatacollective.com"
+            },
+            "author": "Ryan Kh",
+            "title": "Top Tools for Your Cloud Data Security Stack in 2023",
+            "description": "Cloud data security is a crucial aspect of safeguarding sensitive data stored in cloud environments from unauthorized access, theft, and other security threats. This entails implementing a wide range of robust security measures that can protect cloud infrastr…",
+            "url": "https://www.smartdatacollective.com/top-tools-cloud-data-security-stack/",
+            "urlToImage": "https://www.smartdatacollective.com/wp-content/uploads/2023/03/cloud-data-security-scaled.jpg",
+            "publishedAt": "2023-03-15T22:07:08Z",
+            "content": "Cloud data security is a crucial aspect of safeguarding sensitive data stored in cloud environments from unauthorized access, theft, and other security threats. This entails implementing a wide range… [+5717 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "PR Newswire",
+            "title": "Managed and Professional Security Services Growth Opportunities in the Americas 2023 Industry Convergence and Competitive Intensity Push the Market toward Innovation and Diversification",
+            "description": "The \"Managed and Professional Security Services Growth Opportunities in the Americas\" report has been added to ResearchAndMarkets.com's offering.",
+            "url": "https://finance.yahoo.com/news/managed-professional-security-services-growth-220000927.html",
+            "urlToImage": "https://media.zenfs.com/en/prnewswire.com/e75ef6f3096d7cb6f5dd43ba82eca2fe",
+            "publishedAt": "2023-03-15T22:00:00Z",
+            "content": "DUBLIN, March 15, 2023 /PRNewswire/ -- The \"Managed and Professional Security Services Growth Opportunities in the Americas\" report has been added to  ResearchAndMarkets.com's offering.\r\nResearch and… [+5454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Managed and Professional Security Services Growth Opportunities in the Americas 2023 Industry Convergence and Competitive Intensity Push the Market toward Innovation and Diversification",
+            "description": "DUBLIN, March 15, 2023 /PRNewswire/ -- The \"Managed and Professional Security Services Growth Opportunities in the Americas\" report has been added to ResearchAndMarkets.com's offering. Organizations are increasingly adopting hybrid and multi-cloud environment…",
+            "url": "https://www.prnewswire.com/news-releases/managed-and-professional-security-services-growth-opportunities-in-the-americas-2023-industry-convergence-and-competitive-intensity-push-the-market-toward-innovation-and-diversification-301773122.html",
+            "urlToImage": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+            "publishedAt": "2023-03-15T22:00:00Z",
+            "content": "DUBLIN, March 15, 2023 /PRNewswire/ -- The \"Managed and Professional Security Services Growth Opportunities in the Americas\" report has been added to  ResearchAndMarkets.com's offering.\r\nOrganization… [+5076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Eric Volkman)",
+            "title": "Why Zscaler Stock Slumped on Wednesday",
+            "description": "The company hasn't been having the best month of its existence.",
+            "url": "https://www.fool.com/investing/2023/03/15/why-zscaler-stock-slumped-on-wednesday/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/724809/concerned-young-person-with-head-in-hands-gazing-at-a-screen.jpg",
+            "publishedAt": "2023-03-15T21:51:17Z",
+            "content": "What happened\r\nOn Hump Day, numerous stocks bucked the generally bearish turn of the market, but Zscaler(ZS -0.28%) wasn't one of them. The cybersecurity company's share price fell marginally (by 0.3… [+1709 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Cointelegraph By Turner Wright",
+            "title": "Crypto firms may turn to ‘shadow banks’ following major collapses — Molly White",
+            "description": "Software engineer Molly White spoke at a South by Southwest panel on where crypto companies may turn for banking services following the collapse of Silvergate and Signature.",
+            "url": "https://cointelegraph.com/news/crypto-firms-may-turn-to-shadow-banks-following-major-collapses-molly-white",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-03/9c4c6cdc-4ea2-4e80-aff7-ac5f307ee042.jpg",
+            "publishedAt": "2023-03-15T21:49:07Z",
+            "content": "In the wake of three major banks with ties to crypto firms collapsing, software engineer Molly White believes companies now looking at banking options may have to face shadier solutions.\r\nSpeaking on… [+2050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ValueWalk"
+            },
+            "author": "Aman Jain",
+            "title": "Laid-Off Techies Are Turning To Public Service As Job Cuts Continue",
+            "description": "The once bubbly and booming big tech industry is now coming to face a harsh reality, as profits shrink against the backdrop of wider economic problems as inflation remains stubbornly high, interest rates keep climbing and venture capital funds start to dry up…",
+            "url": "https://www.valuewalk.com/laid-off-techies-are-turning-to-public-service-as-job-cuts-continue/",
+            "urlToImage": "https://www.valuewalk.com/wp-content/uploads/2023/03/Laid-Off-Techies.jpeg",
+            "publishedAt": "2023-03-15T21:44:25Z",
+            "content": "The once bubbly and booming big tech industry is now coming to face a harsh reality, as profits shrink against the backdrop of wider economic problems as inflation remains stubbornly high, interest r… [+7891 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Dan Goodin",
+            "title": "Security firm Rubrik is latest to be felled by GoAnywhere vulnerability",
+            "description": "GoAnywhere customers are dropping like flies, courtesy of code execution bug.",
+            "url": "https://arstechnica.com/information-technology/2023/03/security-firm-rubrik-is-latest-to-be-felled-by-goanywhere-vulnerability/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/data-breach-760x380.jpg",
+            "publishedAt": "2023-03-15T21:42:10Z",
+            "content": "1 with \r\nRubrik, the Silicon Valley data security company, said that it experienced a network intrusion made possible by a zero-day vulnerability in a product it used called GoAnywhere.\r\nIn an adviso… [+3872 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rfa.org"
+            },
+            "author": "By RFA Burmese",
+            "title": "Amendment grants Myanmar junta sweeping new powers under Anti-Terrorism Law",
+            "description": "Observers say the provisions violate rights and are intended to end support for the opposition.",
+            "url": "https://www.rfa.org/english/news/myanmar/amendment-03152023170207.html",
+            "urlToImage": "https://www.rfa.org/english/news/myanmar/amendment-03152023170207.html/@@images/image/social_media",
+            "publishedAt": "2023-03-15T21:32:32Z",
+            "content": "Myanmars junta has expanded its ability to target those who seek its removal from power by sharpening the teeth of law that its already used to jail hundreds of people since seizing power in a coup d… [+5086 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "North Carolina Senate passes legislation mandating harsher penalties for utility damage",
+            "description": "The North Carolina Senate passed legislation for harsher penalties for damaging utility equipment. This decision comes after the shootings that cut power to 45,000 homes and businesses.",
+            "url": "https://www.foxnews.com/politics/north-carolina-senate-passes-legislation-mandating-harsher-penalties-utility-damage",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/NC-law.jpg",
+            "publishedAt": "2023-03-15T21:12:30Z",
+            "content": "The North Carolina Senate unanimously passed legislation Tuesday that would increase punishments for intentionally damaging utility equipment after substation shootings in Moore County cut power to 4… [+2157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dark Reading"
+            },
+            "author": null,
+            "title": "Hornetsecurity Launches VM Backup V9",
+            "description": "Hornetsecurity research highlights that more than 1 in 4 companies have fallen victim to ransomware attacks, with 14.1% losing data and 6.6% paying a ransom.",
+            "url": "https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9",
+            "urlToImage": "https://beta.darkreading.com/images/og-image.jpg",
+            "publishedAt": "2023-03-15T21:12:00Z",
+            "content": "LONDON, March 15, 2023 /PRNewswire/ -- Global cybersecurity provider Hornetsecurity has today announced the launch of VM Backup V9 the newest version of its award-winning virtual machine (VM) backup,… [+2720 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PR Newswire UK"
+            },
+            "author": null,
+            "title": "Converge Technology Solutions Reports Record Q4 and FY2022",
+            "description": "TORONTO and GATINEAU, QC, March 15, 2023 /PRNewswire/ -- Converge Technology Solutions Corp. (\"Converge\" or \"the Company\") (TSX: CTS) (FSE: 0ZB) (OTCQX: CTSDF) is pleased to provide its financial results for the full fiscal year (\"FY22\") and three-month perio…",
+            "url": "https://www.prnewswire.co.uk/news-releases/converge-technology-solutions-reports-record-q4-and-fy2022-301773480.html",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T21:08:00Z",
+            "content": "TORONTO and GATINEAU, QC, March 15, 2023 /PRNewswire/ -- Converge Technology Solutions Corp. (\"Converge\" or \"the Company\") (TSX: CTS) (FSE: 0ZB) (OTCQX: CTSDF) is pleased to provide its financial res… [+43182 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Converge Technology Solutions Reports Record Q4 and FY2022",
+            "description": "TORONTO and GATINEAU, QC, March 15, 2023 /PRNewswire/ -- Converge Technology Solutions Corp. (\"Converge\" or \"the Company\") (TSX: CTS) (FSE: 0ZB) (OTCQX: CTSDF) is pleased to provide its financial results for the full fiscal year (\"FY22\") and three-month perio…",
+            "url": "https://www.prnewswire.com/news-releases/converge-technology-solutions-reports-record-q4-and-fy2022-301773480.html",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T21:08:00Z",
+            "content": "TORONTO and GATINEAU, QC, March 15, 2023 /PRNewswire/ -- Converge Technology Solutions Corp. (\"Converge\" or \"the Company\") (TSX: CTS) (FSE: 0ZB) (OTCQX: CTSDF) is pleased to provide its financial res… [+43175 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Haivision Announces Results for the Three Months Ended January 31, 2023",
+            "description": "Haivision reports first-quarter revenue growth 20.2% MONTREAL, March 15, 2023 /PRNewswire/ - Haivision Systems Inc. (\"Haivision\" or the \"Company\") (TSX: HAI), a leading global provider of mission critical, real-time video networking and visual collaboration s…",
+            "url": "https://www.prnewswire.com/news-releases/haivision-announces-results-for-the-three-months-ended-january-31-2023-301773263.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2033862/Haivision_Systems_Inc__Haivision_Announces_Results_for_the_Three.jpg?p=facebook",
+            "publishedAt": "2023-03-15T21:07:00Z",
+            "content": "Haivision reports first-quarter revenue growth 20.2%\r\nMONTREAL, March 15, 2023 /PRNewswire/ - Haivision Systems Inc. (\"Haivision\" or the \"Company\") (TSX: HAI), a leading global provider of mission cr… [+19911 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "CNW Group",
+            "title": "Haivision Announces Results for the Three Months Ended January 31, 2023",
+            "description": "Haivision Systems Inc. (\"Haivision\" or the \"Company\") (TSX: HAI), a leading global provider of mission critical, real-time video networking and visual...",
+            "url": "https://finance.yahoo.com/news/haivision-announces-results-three-months-210700723.html",
+            "urlToImage": "https://media.zenfs.com/en/cnwgroup.com/953bae0fe155a9b3b0b83407cf83b338",
+            "publishedAt": "2023-03-15T21:07:00Z",
+            "content": "Haivision reports first-quarter revenue growth 20.2%\r\nMONTREAL, March 15, 2023 /CNW/ - Haivision Systems Inc. (\"Haivision\" or the \"Company\") (TSX: HAI), a leading global provider of mission critical,… [+20273 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "sec.gov",
+            "title": "Statement on the Proposed Cybersecurity Risk Management Rule for Broker-Dealers, Clearing Agencies, Major Security-Based Swap Participants, the Municipal…",
+            "description": "Statement on the Proposed Cybersecurity Risk Management Rule for Broker-Dealers, Clearing Agencies, Major Security-Based Swap Participants, the Municipal Securities Rulemaking Board, National Securities Associations, National Securities Exchanges, Security-Ba…",
+            "url": "https://biztoc.com/x/3a1a1fd0834f7911",
+            "urlToImage": "https://c.biztoc.com/167/og.png",
+            "publishedAt": "2023-03-15T21:02:12Z",
+            "content": "Statement on the Proposed Cybersecurity Risk Management Rule for Broker-Dealers, Clearing Agencies, Major Security-Based Swap Participants, the Municipal Securities Rulemaking Board, National Securit… [+267 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Burford Capital : 2022 Business Update",
+            "description": "(marketscreener.com) \n \n \n MARCH 15, 2023\n \n \n Burford Capital\n \n \n Update on 2022 Business Activity\n \n \n \n \n This presentation is for the use of Burford's public shareholders and is not an offering of any Burford private fund.\n \n \n \n \n \n ...https://www.marke…",
+            "url": "https://www.marketscreener.com/quote/stock/BURFORD-CAPITAL-LIMITED-5668352/news/Burford-Capital-2022-Business-Update-43256062/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdgris.png",
+            "publishedAt": "2023-03-15T20:53:47Z",
+            "content": "Notice &amp; disclaimer\r\nThis presentation (this \"Presentation\") provides certain information to facilitate review and understanding of the business, results of operations and financial position of B… [+13735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Toronto Star"
+            },
+            "author": "The Canadian Press",
+            "title": "Most actively traded companies on the Toronto Stock Exchange",
+            "description": "TORONTO - Some of the most active companies traded Wednesday on the Toronto Stock Exchange:",
+            "url": "https://www.thestar.com/business/2023/03/15/most-actively-traded-companies-on-the-toronto-stock-exchange.html",
+            "urlToImage": "https://www.thestar.com/assets/img/thestar-ribbon.png",
+            "publishedAt": "2023-03-15T20:53:47Z",
+            "content": "TORONTO - Some of the most active companies traded Wednesday on the Toronto Stock Exchange:\r\nToronto Stock Exchange (19,378.84, down 315.32):\r\nSuncor Energy Inc. (TSX:SU). Energy. Down $2.80, or 6.50… [+2505 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "seattlepi.com"
+            },
+            "author": null,
+            "title": "Guess, Exxon fall; Smartsheet, SentinelOne rise",
+            "description": "Stocks that traded heavily or had substantial price changes Wednesday: Guess, Exxon fall; Smartsheet, SentinelOne rise.",
+            "url": "https://www.seattlepi.com/business/article/guess-exxon-fall-smartsheet-sentinelone-rise-17841624.php",
+            "urlToImage": "https://www.seattlepi.com/img/modules/siteheader/brand.png",
+            "publishedAt": "2023-03-15T20:36:09Z",
+            "content": "NEW YORK (AP) Stocks that traded heavily or had substantial price changes Wednesday:\r\nCredit Suisse Group AG, down 35 cents to $2.16.\r\nAdvertisement\r\nArticle continues below this ad\r\nThe Saudi Nation… [+1085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "Converge Technology Solutions Reports Record Q4 and FY2022",
+            "description": "TORONTO and GATINEAU, QC, March 15, 2023 /PRNewswire/ - Converge Technology Solutions Corp. (\"Converge\" or \"the Company\") (TSX: CTS) (FSE: 0ZB) (OTCQX: CTSDF) is pleased to provide its financial results for the full fiscal year (\"FY22\") and three-month period…",
+            "url": "https://www.prnewswire.com/news-releases/converge-technology-solutions-reports-record-q4-and-fy2022-301773439.html",
+            "urlToImage": null,
+            "publishedAt": "2023-03-15T20:30:00Z",
+            "content": "TORONTO and GATINEAU, QC, March 15, 2023 /PRNewswire/ - Converge Technology Solutions Corp. (\"Converge\" or \"the Company\") (TSX: CTS) (FSE: 0ZB) (OTCQX: CTSDF) is pleased to provide its financial resu… [+43077 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dark Reading"
+            },
+            "author": null,
+            "title": "SecurityScorecard Appoints Former US Congressman John Katko As Senior Advisor",
+            "description": "Capitol Hill cybersecurity leader joins the company’s Cybersecurity Advisory Board to drive further adoption of security ratings in the public and private sectors.",
+            "url": "https://www.darkreading.com/operations/securityscorecard-appoints-former-us-congressman-john-katko-as-senior-advisor",
+            "urlToImage": "https://beta.darkreading.com/images/og-image.jpg",
+            "publishedAt": "2023-03-15T20:19:00Z",
+            "content": "WASHINGTON, DC March 15, 2022 SecurityScorecard, the global security ratings, response and resilience company, announced today that former United States Congressman John Katko has joined the company … [+4244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Annaly Capital Management, Inc. Expands Board with Election of Martin Laguerre",
+            "description": "(marketscreener.com) \nAnnaly Capital Management, Inc. announced today that the Board of Directors of the Company has elected Martin Laguerre, Senior Advisor at Warburg Pincus, as an independent member of the Board, effective March 13, 2023.\n\n“We are thrilled …",
+            "url": "https://www.marketscreener.com/quote/stock/ANNALY-CAPITAL-MANAGEMENT-13744/news/Annaly-Capital-Management-Inc-Expands-Board-with-Election-of-Martin-Laguerre-43255663/?utm_medium=RSS&utm_content=20230315",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdgris.png",
+            "publishedAt": "2023-03-15T20:16:02Z",
+            "content": "Annaly Capital Management, Inc. (NYSE: NLY) (“Annaly” or the “Company”) announced today that the Board of Directors of the Company (the “Board”) has elected Martin Laguerre, Senior Advisor at Warburg… [+6263 chars]"
+        }
+    ]
+}
